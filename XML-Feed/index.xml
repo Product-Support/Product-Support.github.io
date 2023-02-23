@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<JOBS>
+    <INSERATE>
+        <INSERAT>
+            <ORGANISATIONID>35284</ORGANISATIONID>
+            <TEXT><![CDATA[<p>Somebody once told me</p>]]></TEXT>
+            <INSERATID>teamtailor-15-7</INSERATID>
+            <TITEL>Worker</TITEL>
+            <VORSPANN>fdsfds</VORSPANN>
+            <BERUF>Worker</BERUF>
+            <PLZ/>
+            <ORT/>
+            <KONTAKT>Kunde4</KONTAKT>
+            <EMAIL></EMAIL>
+            <URL></URL>
+            <START>2022-12-02T10:01:49+01:00</START>
+            <END/>
+            <FIRMA></FIRMA>
+            <SPRACHE>en</SPRACHE>
+            <BEWERBEN_URL></BEWERBEN_URL>
+            <REGION>:3:</REGION>
+            <ANGEBOT>:30:</ANGEBOT>
+            <BRANCHE>:1:</BRANCHE>
+            <POSITION>:1:</POSITION>
+            <RUBRIKID>:154:</RUBRIKID>
+            <ANSTELLUNGSART>:1:</ANSTELLUNGSART>
+            <BILDUNGSNIVEAU>:543:</BILDUNGSNIVEAU>
+            <SPRACHKENNTNIS-NIVEAU>:3:</SPRACHKENNTNIS-NIVEAU>
+            <SPRACHKENNTNIS-KANDIDAT>:3:</SPRACHKENNTNIS-KANDIDAT>
+        </INSERAT>
+    </INSERATE>
+</JOBS>
