@@ -5,7 +5,7 @@
 <ORGANISATIONID>110662</ORGANISATIONID> 
 <INSERATID>11.1</INSERATID>
 <VORSPANN>This is a test ad. Please don't apply.</VORSPANN>
-<BERUF>Child 3 - Test 1 - Mother logo default / with child logo id feed</BERUF>
+<BERUF>Child 2 - Test 1 - Mother logo default / with child logo id feed</BERUF>
 <TEXT>This is a test ad. Please don't apply.</TEXT>
 <SPRACHE>de</SPRACHE>
 <STRASSE>Albisriederstrasse</STRASSE>
@@ -38,7 +38,7 @@
 <ORGANISATIONID>110662</ORGANISATIONID> 
 <INSERATID>11.2</INSERATID>
 <VORSPANN>This is a test ad. Please don't apply.</VORSPANN>
-<BERUF>Child 3 - Test 2 - Mother logo default / no child logo id feed</BERUF>
+<BERUF>Child 2 - Test 2 - Mother logo default / no child logo id feed</BERUF>
 <TEXT>This is a test ad. Please don't apply.</TEXT>
 <SPRACHE>de</SPRACHE>
 <STRASSE>Albisriederstrasse</STRASSE>
@@ -236,7 +236,7 @@
 <ORGANISATIONID>110663</ORGANISATIONID> 
 <INSERATID>22.3</INSERATID>
 <VORSPANN>This is a test ad. Please don't apply.</VORSPANN>
-<BERUF>Child 2 - Test 8 - Child banner default / with alternative child banner id feed</BERUF>
+<BERUF>Child 3 - Test 8 - Child banner default / with alternative child banner id feed</BERUF>
 <TEXT>This is a test ad. Please don't apply.</TEXT>
 <SPRACHE>de</SPRACHE>
 <STRASSE>Albisriederstrasse</STRASSE>
@@ -269,7 +269,7 @@
 <ORGANISATIONID>110663</ORGANISATIONID> 
 <INSERATID>22.4</INSERATID>
 <VORSPANN>This is a test ad. Please don't apply.</VORSPANN>
-<BERUF>Child 2 - Test 9 - Child banner default / with sibling child banner id feed</BERUF>
+<BERUF>Child 3 - Test 9 - Child banner default / with sibling child banner id feed</BERUF>
 <TEXT>This is a test ad. Please don't apply.</TEXT>
 <SPRACHE>de</SPRACHE>
 <STRASSE>Albisriederstrasse</STRASSE>
@@ -335,7 +335,7 @@
 <ORGANISATIONID>110662</ORGANISATIONID> 
 <INSERATID>33.1</INSERATID>
 <VORSPANN>This is a test ad. Please don't apply.</VORSPANN>
-<BERUF>Child 3 - Test 11 - Mother video default / with child video id feed</BERUF>
+<BERUF>Child 2 - Test 11 - Mother video default / with child video id feed</BERUF>
 <TEXT>This is a test ad. Please don't apply.</TEXT>
 <SPRACHE>de</SPRACHE>
 <STRASSE>Albisriederstrasse</STRASSE>
@@ -368,7 +368,7 @@
 <ORGANISATIONID>110662</ORGANISATIONID> 
 <INSERATID>33.2</INSERATID>
 <VORSPANN>This is a test ad. Please don't apply.</VORSPANN>
-<BERUF>Child 3 - Test 12 - Mother video default / no child video id feed</BERUF>
+<BERUF>Child 2 - Test 12 - Mother video default / no child video id feed</BERUF>
 <TEXT>This is a test ad. Please don't apply.</TEXT>
 <SPRACHE>de</SPRACHE>
 <STRASSE>Albisriederstrasse</STRASSE>
