@@ -3,9 +3,9 @@
     <INSERATE>
         <INSERAT>
             <ORGANISATIONID>110662</ORGANISATIONID> 
-            <INSERATID>999.1</INSERATID>
+            <INSERATID>2323.1</INSERATID>
             <VORSPANN>This is a test ad. Please don't apply.</VORSPANN>
-            <BERUF>Child 2 - Test 1 - Mother video default / no video targeted via feed</BERUF>
+            <BERUF>Child 2 - Test 1 - Mother ID Kontakt</BERUF>
             <TEXT>This is a test ad. Please don't apply.</TEXT>
             <SPRACHE>de</SPRACHE>
             <STRASSE>Albisriederstrasse</STRASSE>
@@ -25,7 +25,6 @@
             <SPRACHKENNTNIS_KANDIDAT>:0:</SPRACHKENNTNIS_KANDIDAT>
             <SPRACHKENNTNIS_NIVEAU>:0:</SPRACHKENNTNIS_NIVEAU>
             <ANGEBOT>51</ANGEBOT> 
-            <USER_KONTAKT_ID></USER_KONTAKT_ID>
             <GEHALT_VON></GEHALT_VON>
             <GEHALT_BIS></GEHALT_BIS>
             <GEHALT_RATE></GEHALT_RATE>
@@ -33,12 +32,13 @@
             <VIDEO></VIDEO>
             <BANNER></BANNER>
             <LOGO></LOGO>
+            <USER_KONTAKT_ID>169406</USER_KONTAKT_ID>
         </INSERAT>
         <INSERAT>
-            <ORGANISATIONID>110663</ORGANISATIONID> 
-            <INSERATID>999.2</INSERATID>
+            <ORGANISATIONID>110662</ORGANISATIONID> 
+            <INSERATID>2323.2</INSERATID>
             <VORSPANN>This is a test ad. Please don't apply.</VORSPANN>
-            <BERUF>Child 3 - Test 2 - child video id 996 default / Target mother video id 995 via feed</BERUF>
+            <BERUF>Child 2 - Test 2 - Mother ID Admin</BERUF>
             <TEXT>This is a test ad. Please don't apply.</TEXT>
             <SPRACHE>de</SPRACHE>
             <STRASSE>Albisriederstrasse</STRASSE>
@@ -58,20 +58,20 @@
             <SPRACHKENNTNIS_KANDIDAT>:0:</SPRACHKENNTNIS_KANDIDAT>
             <SPRACHKENNTNIS_NIVEAU>:0:</SPRACHKENNTNIS_NIVEAU>
             <ANGEBOT>51</ANGEBOT> 
-            <USER_KONTAKT_ID></USER_KONTAKT_ID>
             <GEHALT_VON></GEHALT_VON>
             <GEHALT_BIS></GEHALT_BIS>
             <GEHALT_RATE></GEHALT_RATE>
             <GEHALT_SICHTBAR></GEHALT_SICHTBAR>
-            <VIDEO>995</VIDEO>
+            <VIDEO></VIDEO>
             <BANNER></BANNER>
             <LOGO></LOGO>
+            <USER_KONTAKT_ID>169424</USER_KONTAKT_ID>
         </INSERAT>
         <INSERAT>
-            <ORGANISATIONID>110663</ORGANISATIONID> 
-            <INSERATID>9999.3</INSERATID>
+            <ORGANISATIONID>110662</ORGANISATIONID> 
+            <INSERATID>2323.3</INSERATID>
             <VORSPANN>This is a test ad. Please don't apply.</VORSPANN>
-            <BERUF>Child 3 - Test 3 - child video id 996 default / Target video id 1005 from unrelated account via feed</BERUF>
+            <BERUF>Child 2 - Test 3 - Sibling ID Advisor</BERUF>
             <TEXT>This is a test ad. Please don't apply.</TEXT>
             <SPRACHE>de</SPRACHE>
             <STRASSE>Albisriederstrasse</STRASSE>
@@ -91,7 +91,39 @@
             <SPRACHKENNTNIS_KANDIDAT>:0:</SPRACHKENNTNIS_KANDIDAT>
             <SPRACHKENNTNIS_NIVEAU>:0:</SPRACHKENNTNIS_NIVEAU>
             <ANGEBOT>51</ANGEBOT> 
-            <USER_KONTAKT_ID></USER_KONTAKT_ID>
+            <GEHALT_VON></GEHALT_VON>
+            <GEHALT_BIS></GEHALT_BIS>
+            <GEHALT_RATE></GEHALT_RATE>
+            <GEHALT_SICHTBAR></GEHALT_SICHTBAR>
+            <VIDEO></VIDEO>
+            <BANNER></BANNER>
+            <LOGO></LOGO>
+            <USER_KONTAKT_ID>169372</USER_KONTAKT_ID>
+        </INSERAT>
+        <INSERAT>
+            <ORGANISATIONID>110662</ORGANISATIONID> 
+            <INSERATID>2323.4</INSERATID>
+            <VORSPANN>This is a test ad. Please don't apply.</VORSPANN>
+            <BERUF>Child 2 - Test 4 - own contact</BERUF>
+            <TEXT>This is a test ad. Please don't apply.</TEXT>
+            <SPRACHE>de</SPRACHE>
+            <STRASSE>Albisriederstrasse</STRASSE>
+            <PLZ>8000</PLZ>
+            <ORT>Zürich</ORT>
+            <LAYOUT></LAYOUT>
+            <KONTAKT>Valentina Raffaele, HR</KONTAKT>
+            <EMAIL>valentina.raffaele@jobcloud.ch</EMAIL>
+            <URL>www.jobcloud.ch</URL>
+            <REGION>:2:5:</REGION>
+            <RUBRIKID>:3:</RUBRIKID>
+            <POSITION>:1:</POSITION>
+            <BRANCHE>1</BRANCHE>
+            <ANSTELLUNGSGRAD>20</ANSTELLUNGSGRAD>
+            <ANSTELLUNGSGRAD_BIS>100</ANSTELLUNGSGRAD_BIS>
+            <ANSTELLUNGSART>:1:</ANSTELLUNGSART>
+            <SPRACHKENNTNIS_KANDIDAT>:0:</SPRACHKENNTNIS_KANDIDAT>
+            <SPRACHKENNTNIS_NIVEAU>:0:</SPRACHKENNTNIS_NIVEAU>
+            <ANGEBOT>51</ANGEBOT> 
             <GEHALT_VON></GEHALT_VON>
             <GEHALT_BIS></GEHALT_BIS>
             <GEHALT_RATE></GEHALT_RATE>
@@ -99,39 +131,7 @@
             <VIDEO>1005</VIDEO>
             <BANNER></BANNER>
             <LOGO></LOGO>
-        </INSERAT>
-        <INSERAT>
-            <ORGANISATIONID>110663</ORGANISATIONID> 
-            <INSERATID>666</INSERATID>
-            <VORSPANN>This is a test ad. Please don't apply.</VORSPANN>
-            <BERUF>Child 3 - Test 4 - child video id 996 default / Target video id 1005 from unrelated account via feed</BERUF>
-            <TEXT>This is a test ad. Please don't apply.</TEXT>
-            <SPRACHE>de</SPRACHE>
-            <STRASSE>Albisriederstrasse</STRASSE>
-            <PLZ>8000</PLZ>
-            <ORT>Zürich</ORT>
-            <LAYOUT></LAYOUT>
-            <KONTAKT>Valentina Raffaele, HR</KONTAKT>
-            <EMAIL>valentina.raffaele@jobcloud.ch</EMAIL>
-            <URL>www.jobcloud.ch</URL>
-            <REGION>:2:5:</REGION>
-            <RUBRIKID>:3:</RUBRIKID>
-            <POSITION>:1:</POSITION>
-            <BRANCHE>1</BRANCHE>
-            <ANSTELLUNGSGRAD>20</ANSTELLUNGSGRAD>
-            <ANSTELLUNGSGRAD_BIS>100</ANSTELLUNGSGRAD_BIS>
-            <ANSTELLUNGSART>:1:</ANSTELLUNGSART>
-            <SPRACHKENNTNIS_KANDIDAT>:0:</SPRACHKENNTNIS_KANDIDAT>
-            <SPRACHKENNTNIS_NIVEAU>:0:</SPRACHKENNTNIS_NIVEAU>
-            <ANGEBOT>51</ANGEBOT> 
-            <USER_KONTAKT_ID></USER_KONTAKT_ID>
-            <GEHALT_VON></GEHALT_VON>
-            <GEHALT_BIS></GEHALT_BIS>
-            <GEHALT_RATE></GEHALT_RATE>
-            <GEHALT_SICHTBAR></GEHALT_SICHTBAR>
-            <VIDEO>1005</VIDEO>
-            <BANNER></BANNER>
-            <LOGO></LOGO>
+            <USER_KONTAKT_ID>169425</USER_KONTAKT_ID>
         </INSERAT>
     </INSERATE>
 </JOBS>
