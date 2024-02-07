@@ -707,7 +707,7 @@
             <ORGANISATIONID>110662</ORGANISATIONID> 
             <INSERATID>VM_21</INSERATID>
             <VORSPANN>This is a test ad. Please don't apply.</VORSPANN>
-            <BERUF>Test 21 (Default oder XML dominanter?)</BERUF>
+            <BERUF>Test 21 (XML dominanter?)</BERUF>
             <TEXT>
                 BANNER: JPG: 1200x400 px, 23,6 MB: https://www.lunchbox.eu/wp-content/uploads/2018/02/v01_pixel-07-background-1200x400.jpg
                 LOGO: JPG: 320x320 px, 21,2 MB: https://esawebb.org/media/archives/images/medium/weic2216a.jpg
@@ -743,7 +743,7 @@
             <ORGANISATIONID>110662</ORGANISATIONID> 
             <INSERATID>VM_22</INSERATID>
             <VORSPANN>This is a test ad. Please don't apply.</VORSPANN>
-            <BERUF>Test 22 (Default Elemente + Käse)</BERUF>
+            <BERUF>Test 22 (Käse)</BERUF>
             <TEXT>
                 BANNER: https://mycareer.jobcloud.ch/en/jobs/10126/associate-software-engineer-atsi-100-fmd
                 LOGO: https://mycareer.jobcloud.ch/en/jobs/10130/senior-product-manager-search-experience-100-fmd
