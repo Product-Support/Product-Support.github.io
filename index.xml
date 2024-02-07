@@ -101,7 +101,9 @@
             <GEHALT_RATE></GEHALT_RATE>
             <GEHALT_SICHTBAR></GEHALT_SICHTBAR>
             <LAYOUT></LAYOUT>
-            <VIDEO></VIDEO><BANNER>https://img.jobs.ch/www/img/ci/N/NenoTest/V2_100x400.png</BANNER><LOGO>https://www.nasara-kinesio-tape.ch/images/das-original.png</LOGO>
+            <VIDEO></VIDEO>
+            <BANNER>https://www.cabana-grindelwald.ch/wp-content/gallery/hotelgebaude/hotel_winter-1000x400-pixel.jpg</BANNER>
+            <LOGO>https://www.nasara-kinesio-tape.ch/images/das-original.png</LOGO>
             <USER_KONTAKT_ID></USER_KONTAKT_ID>
         </INSERAT>
         <INSERAT>
@@ -307,7 +309,7 @@
             <GEHALT_RATE></GEHALT_RATE>
             <GEHALT_SICHTBAR></GEHALT_SICHTBAR>
             <LAYOUT></LAYOUT>
-            <VIDEO></VIDEO> <BANNER>https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Nihongo_Bunpou_b.100x400.svg/192px-Nihongo_Bunpou_b.100x400.svg.png</BANNER> 
+            <VIDEO></VIDEO> <BANNER>https://img.jobs.ch/www/img/ci/N/NenoTest/V2_100x400.png</BANNER> 
             <LOGO></LOGO>
             <USER_KONTAKT_ID></USER_KONTAKT_ID>
         </INSERAT>
