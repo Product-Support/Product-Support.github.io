@@ -777,5 +777,40 @@
             <VIDEO>https://mycareer.jobcloud.ch/en/jobs/10129/client-success-specialist-60-fmd</VIDEO> 
             <USER_KONTAKT_ID></USER_KONTAKT_ID>
         </INSERAT>
+        <INSERAT>
+            <ORGANISATIONID>109746</ORGANISATIONID> 
+            <INSERATID>VM_23</INSERATID>
+            <VORSPANN>This is a test ad. Please don't apply.</VORSPANN>
+            <BERUF>Test 23 (what happens when deleting a picture out of admin)</BERUF>
+            <TEXT>
+                BANNER https://img.jobs.ch/www/img/ci/N/NenoTest/Genau_1200x400.png
+                LOGO https://img.jobs.ch/www/img/ci/N/NenoTest/Affe_320x320.png
+            </TEXT>
+            <SPRACHE>de</SPRACHE>
+            <STRASSE>Albisriederstrasse</STRASSE>
+            <PLZ>8000</PLZ>
+            <ORT>Zürich</ORT>
+            <KONTAKT></KONTAKT>
+            <EMAIL></EMAIL>
+            <URL></URL>
+            <REGION>:2:5:</REGION>
+            <RUBRIKID>:3:</RUBRIKID>
+            <POSITION>:1:</POSITION>
+            <BRANCHE>1</BRANCHE>
+            <ANSTELLUNGSGRAD>20</ANSTELLUNGSGRAD>
+            <ANSTELLUNGSGRAD_BIS>100</ANSTELLUNGSGRAD_BIS>
+            <ANSTELLUNGSART>:1:</ANSTELLUNGSART>
+            <SPRACHKENNTNIS_KANDIDAT>:0:</SPRACHKENNTNIS_KANDIDAT>
+            <SPRACHKENNTNIS_NIVEAU>:0:</SPRACHKENNTNIS_NIVEAU>
+            <ANGEBOT>51</ANGEBOT> 
+            <GEHALT_VON></GEHALT_VON>
+            <GEHALT_BIS></GEHALT_BIS>
+            <GEHALT_RATE></GEHALT_RATE>
+            <GEHALT_SICHTBAR></GEHALT_SICHTBAR>
+            <LAYOUT></LAYOUT>
+            <BANNER>https://img.jobs.ch/www/img/ci/N/NenoTest/Genau_1200x400.png</BANNER><LOGO>https://img.jobs.ch/www/img/ci/N/NenoTest/Affe_320x320.png</LOGO>
+            <VIDEO></VIDEO> 
+            <USER_KONTAKT_ID></USER_KONTAKT_ID>
+        </INSERAT>
     </INSERATE>
 </JOBS>
