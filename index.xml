@@ -252,5 +252,110 @@
             <LOGO></LOGO>
             <USER_KONTAKT_ID></USER_KONTAKT_ID>
         </INSERAT>
+        <INSERAT>
+            <ORGANISATIONID>109746</ORGANISATIONID> 
+            <INSERATID>MVN_8</INSERATID>
+            <VORSPANN>This is a test ad. Please don't apply.</VORSPANN>
+            <BERUF>Test 8 (vimeo 1)</BERUF>
+            <TEXT>
+                https://vimeo.com/manage/videos/912980900
+            </TEXT>
+            <SPRACHE>de</SPRACHE>
+            <STRASSE>Albisriederstrasse</STRASSE>
+            <PLZ>8000</PLZ>
+            <ORT>Zürich</ORT>
+            <KONTAKT></KONTAKT>
+            <EMAIL></EMAIL>
+            <URL></URL>
+            <REGION>:2:5:</REGION>
+            <RUBRIKID>:3:</RUBRIKID>
+            <POSITION>:1:</POSITION>
+            <BRANCHE>1</BRANCHE>
+            <ANSTELLUNGSGRAD>20</ANSTELLUNGSGRAD>
+            <ANSTELLUNGSGRAD_BIS>100</ANSTELLUNGSGRAD_BIS>
+            <ANSTELLUNGSART>:1:</ANSTELLUNGSART>
+            <SPRACHKENNTNIS_KANDIDAT>:0:</SPRACHKENNTNIS_KANDIDAT>
+            <SPRACHKENNTNIS_NIVEAU>:0:</SPRACHKENNTNIS_NIVEAU>
+            <ANGEBOT>51</ANGEBOT> 
+            <GEHALT_VON></GEHALT_VON>
+            <GEHALT_BIS></GEHALT_BIS>
+            <GEHALT_RATE></GEHALT_RATE>
+            <GEHALT_SICHTBAR></GEHALT_SICHTBAR>
+            <LAYOUT></LAYOUT>
+            <VIDEO>https://vimeo.com/manage/videos/912980900</VIDEO>
+            <BANNER></BANNER>
+            <LOGO></LOGO>
+            <USER_KONTAKT_ID></USER_KONTAKT_ID>
+        </INSERAT>
+        <INSERAT>
+            <ORGANISATIONID>109746</ORGANISATIONID> 
+            <INSERATID>MVN_9</INSERATID>
+            <VORSPANN>This is a test ad. Please don't apply.</VORSPANN>
+            <BERUF>Test 9 (vimeo 2)</BERUF>
+            <TEXT>
+                https://vimeo.com/912980900?share=copy
+            </TEXT>
+            <SPRACHE>de</SPRACHE>
+            <STRASSE>Albisriederstrasse</STRASSE>
+            <PLZ>8000</PLZ>
+            <ORT>Zürich</ORT>
+            <KONTAKT></KONTAKT>
+            <EMAIL></EMAIL>
+            <URL></URL>
+            <REGION>:2:5:</REGION>
+            <RUBRIKID>:3:</RUBRIKID>
+            <POSITION>:1:</POSITION>
+            <BRANCHE>1</BRANCHE>
+            <ANSTELLUNGSGRAD>20</ANSTELLUNGSGRAD>
+            <ANSTELLUNGSGRAD_BIS>100</ANSTELLUNGSGRAD_BIS>
+            <ANSTELLUNGSART>:1:</ANSTELLUNGSART>
+            <SPRACHKENNTNIS_KANDIDAT>:0:</SPRACHKENNTNIS_KANDIDAT>
+            <SPRACHKENNTNIS_NIVEAU>:0:</SPRACHKENNTNIS_NIVEAU>
+            <ANGEBOT>51</ANGEBOT> 
+            <GEHALT_VON></GEHALT_VON>
+            <GEHALT_BIS></GEHALT_BIS>
+            <GEHALT_RATE></GEHALT_RATE>
+            <GEHALT_SICHTBAR></GEHALT_SICHTBAR>
+            <LAYOUT></LAYOUT>
+            <VIDEO>https://vimeo.com/912980900?share=copy</VIDEO>
+            <BANNER></BANNER>
+            <LOGO></LOGO>
+            <USER_KONTAKT_ID></USER_KONTAKT_ID>
+        </INSERAT>
+        <INSERAT>
+            <ORGANISATIONID>109746</ORGANISATIONID> 
+            <INSERATID>MVN_10</INSERATID>
+            <VORSPANN>This is a test ad. Please don't apply.</VORSPANN>
+            <BERUF>Test 10 (vimeo 3)</BERUF>
+            <TEXT>
+                https://vimeo.com/912980900
+            </TEXT>
+            <SPRACHE>de</SPRACHE>
+            <STRASSE>Albisriederstrasse</STRASSE>
+            <PLZ>8000</PLZ>
+            <ORT>Zürich</ORT>
+            <KONTAKT></KONTAKT>
+            <EMAIL></EMAIL>
+            <URL></URL>
+            <REGION>:2:5:</REGION>
+            <RUBRIKID>:3:</RUBRIKID>
+            <POSITION>:1:</POSITION>
+            <BRANCHE>1</BRANCHE>
+            <ANSTELLUNGSGRAD>20</ANSTELLUNGSGRAD>
+            <ANSTELLUNGSGRAD_BIS>100</ANSTELLUNGSGRAD_BIS>
+            <ANSTELLUNGSART>:1:</ANSTELLUNGSART>
+            <SPRACHKENNTNIS_KANDIDAT>:0:</SPRACHKENNTNIS_KANDIDAT>
+            <SPRACHKENNTNIS_NIVEAU>:0:</SPRACHKENNTNIS_NIVEAU>
+            <ANGEBOT>51</ANGEBOT> 
+            <GEHALT_VON></GEHALT_VON>
+            <GEHALT_BIS></GEHALT_BIS>
+            <GEHALT_RATE></GEHALT_RATE>
+            <GEHALT_SICHTBAR></GEHALT_SICHTBAR>
+            <LAYOUT></LAYOUT>
+            <VIDEO>https://vimeo.com/912980900</VIDEO>
+            <BANNER></BANNER>
+            <LOGO></LOGO>
+            <USER_KONTAKT_ID></USER_KONTAKT_ID>
+        </INSERAT>
     </INSERATE>
 </JOBS>
