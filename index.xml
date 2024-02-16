@@ -3,46 +3,12 @@
     <INSERATE>
         <INSERAT>
             <ORGANISATIONID>109746</ORGANISATIONID> 
-            <INSERATID>VM_1</INSERATID>
+            <INSERATID>MVN_1</INSERATID>
             <VORSPANN>This is a test ad. Please don't apply.</VORSPANN>
-            <BERUF>Test 1 (Optimalfall)</BERUF>
+            <BERUF>Test 1 (youtube normal)</BERUF>
             <TEXT>
-            BANNER: JPG: 1200x400 px, 23,6 MB: https://www.lunchbox.eu/wp-content/uploads/2018/02/v01_pixel-07-background-1200x400.jpg
-            LOGO: JPG: 320x320 px, 21,2 MB: https://esawebb.org/media/archives/images/medium/weic2216a.jpg</TEXT>
-            <SPRACHE>de</SPRACHE>
-            <STRASSE>Albisriederstrasse</STRASSE>
-            <PLZ>8000</PLZ>
-            <ORT>Zürich</ORT>
-            <KONTAKT></KONTAKT>
-            <EMAIL></EMAIL>
-            <URL></URL>
-            <REGION>:2:5:</REGION>
-            <RUBRIKID>:3:</RUBRIKID>
-            <POSITION>:1:</POSITION>
-            <BRANCHE>1</BRANCHE>
-            <ANSTELLUNGSGRAD>20</ANSTELLUNGSGRAD>
-            <ANSTELLUNGSGRAD_BIS>100</ANSTELLUNGSGRAD_BIS>
-            <ANSTELLUNGSART>:1:</ANSTELLUNGSART>
-            <SPRACHKENNTNIS_KANDIDAT>:0:</SPRACHKENNTNIS_KANDIDAT>
-            <SPRACHKENNTNIS_NIVEAU>:0:</SPRACHKENNTNIS_NIVEAU>
-            <ANGEBOT>51</ANGEBOT> 
-            <GEHALT_VON></GEHALT_VON>
-            <GEHALT_BIS></GEHALT_BIS>
-            <GEHALT_RATE></GEHALT_RATE>
-            <GEHALT_SICHTBAR></GEHALT_SICHTBAR>
-            <LAYOUT></LAYOUT>
-            <VIDEO></VIDEO>
-            <BANNER>https://www.lunchbox.eu/wp-content/uploads/2018/02/v01_pixel-07-background-1200x400.jpg</BANNER><LOGO>https://esawebb.org/media/archives/images/medium/weic2216a.jpg</LOGO>
-            <USER_KONTAKT_ID></USER_KONTAKT_ID>
-        </INSERAT>
-        <INSERAT>
-            <ORGANISATIONID>109746</ORGANISATIONID> 
-            <INSERATID>VM_2</INSERATID>
-            <VORSPANN>This is a test ad. Please don't apply.</VORSPANN>
-            <BERUF>Test 2 (Könnte klappen)</BERUF>
-            <TEXT>
-            BANNER: JPEG: 1200x800 px, 32,4 MB: https://colesclassroom.com/wp-content/uploads/2018/10/pexels-photo-1454825.jpeg
-            LOGO: JPG: 600x600 px, 22,4 MB: https://upload.wikimedia.org/wikipedia/commons/9/9f/Luria_isabella_02_600x600.jpg
+                youtube normal
+                https://www.youtube.com/watch?v=vXYVfk7agqU
             </TEXT>
             <SPRACHE>de</SPRACHE>
             <STRASSE>Albisriederstrasse</STRASSE>
@@ -66,226 +32,19 @@
             <GEHALT_RATE></GEHALT_RATE>
             <GEHALT_SICHTBAR></GEHALT_SICHTBAR>
             <LAYOUT></LAYOUT>
-            <VIDEO></VIDEO>
-            <BANNER>https://colesclassroom.com/wp-content/uploads/2018/10/pexels-photo-1454825.jpeg</BANNER><LOGO>https://img.jobs.ch/www/img/ci/N/NenoTest/V2_600x600.jpg</LOGO>
-            <USER_KONTAKT_ID></USER_KONTAKT_ID>
-        </INSERAT>
-        <INSERAT>
-            <ORGANISATIONID>109746</ORGANISATIONID> 
-            <INSERATID>VM_3</INSERATID>
-            <VORSPANN>This is a test ad. Please don't apply.</VORSPANN>
-            <BERUF>Test 3 (Knapp zu klein)</BERUF>
-            <TEXT>
-            BANNER: JPG: 1000x400 px, 21,5 MB: https://www.cabana-grindelwald.ch/wp-content/gallery/hotelgebaude/hotel_winter-1000x400-pixel.jpg
-            LOGO: PNG: 150x150 px, 20,4 MB: https://www.nasara-kinesio-tape.ch/images/das-original.png
-            </TEXT>
-            <SPRACHE>de</SPRACHE>
-            <STRASSE>Albisriederstrasse</STRASSE>
-            <PLZ>8000</PLZ>
-            <ORT>Zürich</ORT>
-            <KONTAKT></KONTAKT>
-            <EMAIL></EMAIL>
-            <URL></URL>
-            <REGION>:2:5:</REGION>
-            <RUBRIKID>:3:</RUBRIKID>
-            <POSITION>:1:</POSITION>
-            <BRANCHE>1</BRANCHE>
-            <ANSTELLUNGSGRAD>20</ANSTELLUNGSGRAD>
-            <ANSTELLUNGSGRAD_BIS>100</ANSTELLUNGSGRAD_BIS>
-            <ANSTELLUNGSART>:1:</ANSTELLUNGSART>
-            <SPRACHKENNTNIS_KANDIDAT>:0:</SPRACHKENNTNIS_KANDIDAT>
-            <SPRACHKENNTNIS_NIVEAU>:0:</SPRACHKENNTNIS_NIVEAU>
-            <ANGEBOT>51</ANGEBOT> 
-            <GEHALT_VON></GEHALT_VON>
-            <GEHALT_BIS></GEHALT_BIS>
-            <GEHALT_RATE></GEHALT_RATE>
-            <GEHALT_SICHTBAR></GEHALT_SICHTBAR>
-            <LAYOUT></LAYOUT>
-            <VIDEO></VIDEO>
-            <BANNER>https://www.cabana-grindelwald.ch/wp-content/gallery/hotelgebaude/hotel_winter-1000x400-pixel.jpg</BANNER>
-            <LOGO>https://www.nasara-kinesio-tape.ch/images/das-original.png</LOGO>
-            <USER_KONTAKT_ID></USER_KONTAKT_ID>
-        </INSERAT>
-        <INSERAT>
-            <ORGANISATIONID>109746</ORGANISATIONID> 
-            <INSERATID>VM_4</INSERATID>
-            <VORSPANN>This is a test ad. Please don't apply.</VORSPANN>
-            <BERUF>Test 4 (Viel zu gross)</BERUF>
-            <TEXT>
-            BANNER: JPG: 5000x3000 px, 81,4 MB: https://s1.1zoom.me/big3/22/Scenery_Lake_Sunrises_454795.jpg
-            LOGO: JPG: 5000x5000 px, 50,6 MB: https://www.bhmpics.com/downloads/5000-x-5000/19.pixels_squares_mosaic_128665_5000x5000.jpg
-            </TEXT>
-            <SPRACHE>de</SPRACHE>
-            <STRASSE>Albisriederstrasse</STRASSE>
-            <PLZ>8000</PLZ>
-            <ORT>Zürich</ORT>
-            <KONTAKT></KONTAKT>
-            <EMAIL></EMAIL>
-            <URL></URL>
-            <REGION>:2:5:</REGION>
-            <RUBRIKID>:3:</RUBRIKID>
-            <POSITION>:1:</POSITION>
-            <BRANCHE>1</BRANCHE>
-            <ANSTELLUNGSGRAD>20</ANSTELLUNGSGRAD>
-            <ANSTELLUNGSGRAD_BIS>100</ANSTELLUNGSGRAD_BIS>
-            <ANSTELLUNGSART>:1:</ANSTELLUNGSART>
-            <SPRACHKENNTNIS_KANDIDAT>:0:</SPRACHKENNTNIS_KANDIDAT>
-            <SPRACHKENNTNIS_NIVEAU>:0:</SPRACHKENNTNIS_NIVEAU>
-            <ANGEBOT>51</ANGEBOT> 
-            <GEHALT_VON></GEHALT_VON>
-            <GEHALT_BIS></GEHALT_BIS>
-            <GEHALT_RATE></GEHALT_RATE>
-            <GEHALT_SICHTBAR></GEHALT_SICHTBAR>
-            <LAYOUT></LAYOUT>
-            <VIDEO></VIDEO><BANNER>https://s1.1zoom.me/big3/22/Scenery_Lake_Sunrises_454795.jpg</BANNER>
-            <LOGO>https://www.bhmpics.com/downloads/5000-x-5000/19.pixels_squares_mosaic_128665_5000x5000.jpg</LOGO>
-            <USER_KONTAKT_ID></USER_KONTAKT_ID>
-        </INSERAT>
-        <INSERAT>
-            <ORGANISATIONID>109746</ORGANISATIONID> 
-            <INSERATID>VM_5</INSERATID>
-            <VORSPANN>This is a test ad. Please don't apply.</VORSPANN>
-            <BERUF>Test 5 (Banner zu gross, Logo nicht quadratisch)</BERUF>
-            <TEXT>
-            BANNER: JPG: 2000x700 px, 25,5 MB: https://upload.wikimedia.org/wikipedia/commons/0/05/Sreedhareeyamvilla.jpg
-            LOGO: JPG: 500x700 px, 21,1 MB: https://foppa.ch/wp-content/uploads/2021/04/209.069c-1-500x700.jpg
-            </TEXT>
-            <SPRACHE>de</SPRACHE>
-            <STRASSE>Albisriederstrasse</STRASSE>
-            <PLZ>8000</PLZ>
-            <ORT>Zürich</ORT>
-            <KONTAKT></KONTAKT>
-            <EMAIL></EMAIL>
-            <URL></URL>
-            <REGION>:2:5:</REGION>
-            <RUBRIKID>:3:</RUBRIKID>
-            <POSITION>:1:</POSITION>
-            <BRANCHE>1</BRANCHE>
-            <ANSTELLUNGSGRAD>20</ANSTELLUNGSGRAD>
-            <ANSTELLUNGSGRAD_BIS>100</ANSTELLUNGSGRAD_BIS>
-            <ANSTELLUNGSART>:1:</ANSTELLUNGSART>
-            <SPRACHKENNTNIS_KANDIDAT>:0:</SPRACHKENNTNIS_KANDIDAT>
-            <SPRACHKENNTNIS_NIVEAU>:0:</SPRACHKENNTNIS_NIVEAU>
-            <ANGEBOT>51</ANGEBOT> 
-            <GEHALT_VON></GEHALT_VON>
-            <GEHALT_BIS></GEHALT_BIS>
-            <GEHALT_RATE></GEHALT_RATE>
-            <GEHALT_SICHTBAR></GEHALT_SICHTBAR>
-            <LAYOUT></LAYOUT>
-            <VIDEO></VIDEO><BANNER>https://img.jobs.ch/www/img/ci/N/NenoTest/V2_2000x700.jpg</BANNER>
-            <LOGO>https://foppa.ch/wp-content/uploads/2021/04/209.069c-1-500x700.jpg</LOGO>
-            <USER_KONTAKT_ID></USER_KONTAKT_ID>
-        </INSERAT>
-        <INSERAT>
-            <ORGANISATIONID>109746</ORGANISATIONID> 
-            <INSERATID>VM_6</INSERATID>
-            <VORSPANN>This is a test ad. Please don't apply.</VORSPANN>
-            <BERUF>Test 6 (SVG BANNER / GIF LOGO)</BERUF>
-            <TEXT>
-            BANNER: SVG: 20,1 MB: https://upload.wikimedia.org/wikipedia/commons/5/59/Logo-Logo.svg
-            LOGO: GIF: 800x400 px, 24,7 MB: https://i.pinimg.com/originals/e9/ea/6d/e9ea6d657747520a279da7955f3c7658.gif
-            </TEXT>
-            <SPRACHE>de</SPRACHE>
-            <STRASSE>Albisriederstrasse</STRASSE>
-            <PLZ>8000</PLZ>
-            <ORT>Zürich</ORT>
-            <KONTAKT></KONTAKT>
-            <EMAIL></EMAIL>
-            <URL></URL>
-            <REGION>:2:5:</REGION>
-            <RUBRIKID>:3:</RUBRIKID>
-            <POSITION>:1:</POSITION>
-            <BRANCHE>1</BRANCHE>
-            <ANSTELLUNGSGRAD>20</ANSTELLUNGSGRAD>
-            <ANSTELLUNGSGRAD_BIS>100</ANSTELLUNGSGRAD_BIS>
-            <ANSTELLUNGSART>:1:</ANSTELLUNGSART>
-            <SPRACHKENNTNIS_KANDIDAT>:0:</SPRACHKENNTNIS_KANDIDAT>
-            <SPRACHKENNTNIS_NIVEAU>:0:</SPRACHKENNTNIS_NIVEAU>
-            <ANGEBOT>51</ANGEBOT> 
-            <GEHALT_VON></GEHALT_VON>
-            <GEHALT_BIS></GEHALT_BIS>
-            <GEHALT_RATE></GEHALT_RATE>
-            <GEHALT_SICHTBAR></GEHALT_SICHTBAR>
-            <LAYOUT></LAYOUT>
-            <VIDEO></VIDEO><BANNER>https://img.jobs.ch/www/img/ci/N/NenoTest/V2_600x450.svg</BANNER> <LOGO>https://i.pinimg.com/originals/e9/ea/6d/e9ea6d657747520a279da7955f3c7658.gif</LOGO>
-            <USER_KONTAKT_ID></USER_KONTAKT_ID>
-        </INSERAT>
-        <INSERAT>
-            <ORGANISATIONID>109746</ORGANISATIONID> 
-            <INSERATID>VM_7</INSERATID>
-            <VORSPANN>This is a test ad. Please don't apply.</VORSPANN>
-            <BERUF>Test 7 (GIF BANNER / SVG LOGO)</BERUF>
-            <TEXT>
-            BANNER: GIF: 800x400 px, 24,7 MB: https://i.pinimg.com/originals/e9/ea/6d/e9ea6d657747520a279da7955f3c7658.gif
-            LOGO: SVG: 20,1 MB: https://upload.wikimedia.org/wikipedia/commons/5/59/Logo-Logo.svg 
-            </TEXT>
-            <SPRACHE>de</SPRACHE>
-            <STRASSE>Albisriederstrasse</STRASSE>
-            <PLZ>8000</PLZ>
-            <ORT>Zürich</ORT>
-            <KONTAKT></KONTAKT>
-            <EMAIL></EMAIL>
-            <URL></URL>
-            <REGION>:2:5:</REGION>
-            <RUBRIKID>:3:</RUBRIKID>
-            <POSITION>:1:</POSITION>
-            <BRANCHE>1</BRANCHE>
-            <ANSTELLUNGSGRAD>20</ANSTELLUNGSGRAD>
-            <ANSTELLUNGSGRAD_BIS>100</ANSTELLUNGSGRAD_BIS>
-            <ANSTELLUNGSART>:1:</ANSTELLUNGSART>
-            <SPRACHKENNTNIS_KANDIDAT>:0:</SPRACHKENNTNIS_KANDIDAT>
-            <SPRACHKENNTNIS_NIVEAU>:0:</SPRACHKENNTNIS_NIVEAU>
-            <ANGEBOT>51</ANGEBOT> 
-            <GEHALT_VON></GEHALT_VON>
-            <GEHALT_BIS></GEHALT_BIS>
-            <GEHALT_RATE></GEHALT_RATE>
-            <GEHALT_SICHTBAR></GEHALT_SICHTBAR>
-            <LAYOUT></LAYOUT>
-            <VIDEO></VIDEO><BANNER>https://i.pinimg.com/originals/e9/ea/6d/e9ea6d657747520a279da7955f3c7658.gif</BANNER> <LOGO>https://img.jobs.ch/www/img/ci/N/NenoTest/V2_600x450.svg</LOGO>
-            <USER_KONTAKT_ID></USER_KONTAKT_ID>
-        </INSERAT>
-        <INSERAT>
-            <ORGANISATIONID>109746</ORGANISATIONID> 
-            <INSERATID>VM_8</INSERATID>
-            <VORSPANN>This is a test ad. Please don't apply.</VORSPANN>
-            <BERUF>Test 8 (BANNER quaqdratisch)</BERUF>
-            <TEXT>
-           BANNER: JPG: 626x626 px, 23,7 MB: https://img.freepik.com/vektoren-premium/quadratisches-aquarellmuster-fuer-textilien-keramikfliesen-und-designs-orientalisches-vintage-rundmotiv-mandala-kaleidoskop-bunte-malerei-handgezeichnetes-abstraktes-muster-drucken-nahtlosen-hintergrund_656562-88.jpg 
-            </TEXT>
-            <SPRACHE>de</SPRACHE>
-            <STRASSE>Albisriederstrasse</STRASSE>
-            <PLZ>8000</PLZ>
-            <ORT>Zürich</ORT>
-            <KONTAKT></KONTAKT>
-            <EMAIL></EMAIL>
-            <URL></URL>
-            <REGION>:2:5:</REGION>
-            <RUBRIKID>:3:</RUBRIKID>
-            <POSITION>:1:</POSITION>
-            <BRANCHE>1</BRANCHE>
-            <ANSTELLUNGSGRAD>20</ANSTELLUNGSGRAD>
-            <ANSTELLUNGSGRAD_BIS>100</ANSTELLUNGSGRAD_BIS>
-            <ANSTELLUNGSART>:1:</ANSTELLUNGSART>
-            <SPRACHKENNTNIS_KANDIDAT>:0:</SPRACHKENNTNIS_KANDIDAT>
-            <SPRACHKENNTNIS_NIVEAU>:0:</SPRACHKENNTNIS_NIVEAU>
-            <ANGEBOT>51</ANGEBOT> 
-            <GEHALT_VON></GEHALT_VON>
-            <GEHALT_BIS></GEHALT_BIS>
-            <GEHALT_RATE></GEHALT_RATE>
-            <GEHALT_SICHTBAR></GEHALT_SICHTBAR>
-            <LAYOUT></LAYOUT>
-            <VIDEO></VIDEO>
-            <BANNER>https://img.freepik.com/vektoren-premium/quadratisches-aquarellmuster-fuer-textilien-keramikfliesen-und-designs-orientalisches-vintage-rundmotiv-mandala-kaleidoskop-bunte-malerei-handgezeichnetes-abstraktes-muster-drucken-nahtlosen-hintergrund_656562-88.jpg</BANNER> 
+            <VIDEO>https://www.youtube.com/watch?v=vXYVfk7agqU</VIDEO>
+            <BANNER></BANNER>
             <LOGO></LOGO>
             <USER_KONTAKT_ID></USER_KONTAKT_ID>
         </INSERAT>
         <INSERAT>
             <ORGANISATIONID>109746</ORGANISATIONID> 
-            <INSERATID>VM_9</INSERATID>
+            <INSERATID>MVN_2</INSERATID>
             <VORSPANN>This is a test ad. Please don't apply.</VORSPANN>
-            <BERUF>Test 9 (BANNER viel zu klein)</BERUF>
+            <BERUF>Test 2 (youtube normal - ab XY Zeit)</BERUF>
             <TEXT>
-           BANNER: PNG: 100x400 px, 21,1 MB: https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/Nihongo_Bunpou_b.100x400.svg/192px-Nihongo_Bunpou_b.100x400.svg.png
+                youtube normal - ab XY Zeit
+                https://youtu.be/VAH-ixdFWFs?feature=shared&t=281
             </TEXT>
             <SPRACHE>de</SPRACHE>
             <STRASSE>Albisriederstrasse</STRASSE>
@@ -309,19 +68,19 @@
             <GEHALT_RATE></GEHALT_RATE>
             <GEHALT_SICHTBAR></GEHALT_SICHTBAR>
             <LAYOUT></LAYOUT>
-            <VIDEO></VIDEO> <BANNER>https://img.jobs.ch/www/img/ci/N/NenoTest/V2_100x400.png</BANNER> 
+            <VIDEO>https://youtu.be/VAH-ixdFWFs?feature=shared&t=281</VIDEO>
+            <BANNER></BANNER>
             <LOGO></LOGO>
             <USER_KONTAKT_ID></USER_KONTAKT_ID>
         </INSERAT>
         <INSERAT>
             <ORGANISATIONID>109746</ORGANISATIONID> 
-            <INSERATID>VM_10</INSERATID>
+            <INSERATID>MVN_3</INSERATID>
             <VORSPANN>This is a test ad. Please don't apply.</VORSPANN>
-            <BERUF>Test 10 (Optimalfall + YTVIDEO)</BERUF>
+            <BERUF>Test 3 (shorts)</BERUF>
             <TEXT>
-                BANNER: JPG: 1200x400 px, 23,6 MB: https://www.lunchbox.eu/wp-content/uploads/2018/02/v01_pixel-07-background-1200x400.jpg
-                LOGO: JPG: 320x320 px, 21,2 MB: https://esawebb.org/media/archives/images/medium/weic2216a.jpg
-                VIDEO: https://www.youtube.com/watch?v=cHKR5a83jaA
+                shorts
+                https://www.youtube.com/shorts/UOuj-xgtGfk
             </TEXT>
             <SPRACHE>de</SPRACHE>
             <STRASSE>Albisriederstrasse</STRASSE>
@@ -345,197 +104,19 @@
             <GEHALT_RATE></GEHALT_RATE>
             <GEHALT_SICHTBAR></GEHALT_SICHTBAR>
             <LAYOUT></LAYOUT>
-            <BANNER>https://www.lunchbox.eu/wp-content/uploads/2018/02/v01_pixel-07-background-1200x400.jpg</BANNER> <LOGO>https://esawebb.org/media/archives/images/medium/weic2216a.jpg</LOGO>
-            <VIDEO>https://www.youtube.com/watch?v=cHKR5a83jaA</VIDEO> 
-            <USER_KONTAKT_ID></USER_KONTAKT_ID>
-        </INSERAT>
-        <INSERAT>
-            <ORGANISATIONID>109746</ORGANISATIONID> 
-            <INSERATID>VM_11</INSERATID>
-            <VORSPANN>This is a test ad. Please don't apply.</VORSPANN>
-            <BERUF>Test 11 (Optimalfall + VVIDEO)</BERUF>
-            <TEXT>
-                BANNER: JPG: 1200x400 px, 23,6 MB: https://www.lunchbox.eu/wp-content/uploads/2018/02/v01_pixel-07-background-1200x400.jpg
-                LOGO: JPG: 320x320 px, 21,2 MB: https://esawebb.org/media/archives/images/medium/weic2216a.jpg
-                VIDEO: https://vimeo.com/782903381
-            </TEXT>
-            <SPRACHE>de</SPRACHE>
-            <STRASSE>Albisriederstrasse</STRASSE>
-            <PLZ>8000</PLZ>
-            <ORT>Zürich</ORT>
-            <KONTAKT></KONTAKT>
-            <EMAIL></EMAIL>
-            <URL></URL>
-            <REGION>:2:5:</REGION>
-            <RUBRIKID>:3:</RUBRIKID>
-            <POSITION>:1:</POSITION>
-            <BRANCHE>1</BRANCHE>
-            <ANSTELLUNGSGRAD>20</ANSTELLUNGSGRAD>
-            <ANSTELLUNGSGRAD_BIS>100</ANSTELLUNGSGRAD_BIS>
-            <ANSTELLUNGSART>:1:</ANSTELLUNGSART>
-            <SPRACHKENNTNIS_KANDIDAT>:0:</SPRACHKENNTNIS_KANDIDAT>
-            <SPRACHKENNTNIS_NIVEAU>:0:</SPRACHKENNTNIS_NIVEAU>
-            <ANGEBOT>51</ANGEBOT> 
-            <GEHALT_VON></GEHALT_VON>
-            <GEHALT_BIS></GEHALT_BIS>
-            <GEHALT_RATE></GEHALT_RATE>
-            <GEHALT_SICHTBAR></GEHALT_SICHTBAR>
-            <LAYOUT></LAYOUT>
-            <BANNER>https://www.lunchbox.eu/wp-content/uploads/2018/02/v01_pixel-07-background-1200x400.jpg</BANNER> <LOGO>https://esawebb.org/media/archives/images/medium/weic2216a.jpg</LOGO>
-            <VIDEO>https://vimeo.com/782903381</VIDEO> 
-            <USER_KONTAKT_ID></USER_KONTAKT_ID>
-        </INSERAT>
-        <INSERAT>
-            <ORGANISATIONID>109746</ORGANISATIONID> 
-            <INSERATID>VM_12</INSERATID>
-            <VORSPANN>This is a test ad. Please don't apply.</VORSPANN>
-            <BERUF>Test 12 (Optimalfall + BANNER URL + LOGO ID)</BERUF>
-            <TEXT>
-                BANNER: JPG: 1200x400 px, 23,6 MB: https://www.lunchbox.eu/wp-content/uploads/2018/02/v01_pixel-07-background-1200x400.jpg
-                LOGO: 316487
-            </TEXT>
-            <SPRACHE>de</SPRACHE>
-            <STRASSE>Albisriederstrasse</STRASSE>
-            <PLZ>8000</PLZ>
-            <ORT>Zürich</ORT>
-            <KONTAKT></KONTAKT>
-            <EMAIL></EMAIL>
-            <URL></URL>
-            <REGION>:2:5:</REGION>
-            <RUBRIKID>:3:</RUBRIKID>
-            <POSITION>:1:</POSITION>
-            <BRANCHE>1</BRANCHE>
-            <ANSTELLUNGSGRAD>20</ANSTELLUNGSGRAD>
-            <ANSTELLUNGSGRAD_BIS>100</ANSTELLUNGSGRAD_BIS>
-            <ANSTELLUNGSART>:1:</ANSTELLUNGSART>
-            <SPRACHKENNTNIS_KANDIDAT>:0:</SPRACHKENNTNIS_KANDIDAT>
-            <SPRACHKENNTNIS_NIVEAU>:0:</SPRACHKENNTNIS_NIVEAU>
-            <ANGEBOT>51</ANGEBOT> 
-            <GEHALT_VON></GEHALT_VON>
-            <GEHALT_BIS></GEHALT_BIS>
-            <GEHALT_RATE></GEHALT_RATE>
-            <GEHALT_SICHTBAR></GEHALT_SICHTBAR>
-            <LAYOUT></LAYOUT>
-            <BANNER>https://www.lunchbox.eu/wp-content/uploads/2018/02/v01_pixel-07-background-1200x400.jpg</BANNER> 
-            <LOGO>316487</LOGO>
-            <VIDEO></VIDEO> 
-            <USER_KONTAKT_ID></USER_KONTAKT_ID>
-        </INSERAT>
-        <INSERAT>
-            <ORGANISATIONID>109746</ORGANISATIONID> 
-            <INSERATID>VM_13</INSERATID>
-            <VORSPANN>This is a test ad. Please don't apply.</VORSPANN>
-            <BERUF>Test 13 (Optimalfall + BANNER ID + LOGO URL)</BERUF>
-            <TEXT>
-                BANNER: 18581
-                LOGO: JPG: 320x320 px, 21,2 MB: https://esawebb.org/media/archives/images/medium/weic2216a.jpg
-            </TEXT>
-            <SPRACHE>de</SPRACHE>
-            <STRASSE>Albisriederstrasse</STRASSE>
-            <PLZ>8000</PLZ>
-            <ORT>Zürich</ORT>
-            <KONTAKT></KONTAKT>
-            <EMAIL></EMAIL>
-            <URL></URL>
-            <REGION>:2:5:</REGION>
-            <RUBRIKID>:3:</RUBRIKID>
-            <POSITION>:1:</POSITION>
-            <BRANCHE>1</BRANCHE>
-            <ANSTELLUNGSGRAD>20</ANSTELLUNGSGRAD>
-            <ANSTELLUNGSGRAD_BIS>100</ANSTELLUNGSGRAD_BIS>
-            <ANSTELLUNGSART>:1:</ANSTELLUNGSART>
-            <SPRACHKENNTNIS_KANDIDAT>:0:</SPRACHKENNTNIS_KANDIDAT>
-            <SPRACHKENNTNIS_NIVEAU>:0:</SPRACHKENNTNIS_NIVEAU>
-            <ANGEBOT>51</ANGEBOT> 
-            <GEHALT_VON></GEHALT_VON>
-            <GEHALT_BIS></GEHALT_BIS>
-            <GEHALT_RATE></GEHALT_RATE>
-            <GEHALT_SICHTBAR></GEHALT_SICHTBAR>
-            <LAYOUT></LAYOUT>
-            <BANNER>18581</BANNER> <LOGO>https://esawebb.org/media/archives/images/medium/weic2216a.jpg</LOGO>
-            <VIDEO></VIDEO> 
-            <USER_KONTAKT_ID></USER_KONTAKT_ID>
-        </INSERAT>
-        <INSERAT>
-            <ORGANISATIONID>109746</ORGANISATIONID> 
-            <INSERATID>VM_14</INSERATID>
-            <VORSPANN>This is a test ad. Please don't apply.</VORSPANN>
-            <BERUF>Test 14 (VIDEO URL als BILD URL)</BERUF>
-            <TEXT>
-                BANNER: https://www.youtube.com/watch?v=cHKR5a83jaA
-                LOGO: https://vimeo.com/782903381
-            </TEXT>
-            <SPRACHE>de</SPRACHE>
-            <STRASSE>Albisriederstrasse</STRASSE>
-            <PLZ>8000</PLZ>
-            <ORT>Zürich</ORT>
-            <KONTAKT></KONTAKT>
-            <EMAIL></EMAIL>
-            <URL></URL>
-            <REGION>:2:5:</REGION>
-            <RUBRIKID>:3:</RUBRIKID>
-            <POSITION>:1:</POSITION>
-            <BRANCHE>1</BRANCHE>
-            <ANSTELLUNGSGRAD>20</ANSTELLUNGSGRAD>
-            <ANSTELLUNGSGRAD_BIS>100</ANSTELLUNGSGRAD_BIS>
-            <ANSTELLUNGSART>:1:</ANSTELLUNGSART>
-            <SPRACHKENNTNIS_KANDIDAT>:0:</SPRACHKENNTNIS_KANDIDAT>
-            <SPRACHKENNTNIS_NIVEAU>:0:</SPRACHKENNTNIS_NIVEAU>
-            <ANGEBOT>51</ANGEBOT> 
-            <GEHALT_VON></GEHALT_VON>
-            <GEHALT_BIS></GEHALT_BIS>
-            <GEHALT_RATE></GEHALT_RATE>
-            <GEHALT_SICHTBAR></GEHALT_SICHTBAR>
-            <LAYOUT></LAYOUT>
-            <BANNER>https://www.youtube.com/watch?v=cHKR5a83jaA</BANNER> 
-            <LOGO>https://vimeo.com/782903381</LOGO>
-            <VIDEO></VIDEO> 
-            <USER_KONTAKT_ID></USER_KONTAKT_ID>
-        </INSERAT>
-        <INSERAT>
-            <ORGANISATIONID>109746</ORGANISATIONID> 
-            <INSERATID>VM_15</INSERATID>
-            <VORSPANN>This is a test ad. Please don't apply.</VORSPANN>
-            <BERUF>Test 15 (BILD URL als VIDEO URL)</BERUF>
-            <TEXT>
-                VIDEO: 1200x400 px, 23,6 MB: https://www.lunchbox.eu/wp-content/uploads/2018/02/v01_pixel-07-background-1200x400.jpg
-            </TEXT>
-            <SPRACHE>de</SPRACHE>
-            <STRASSE>Albisriederstrasse</STRASSE>
-            <PLZ>8000</PLZ>
-            <ORT>Zürich</ORT>
-            <KONTAKT></KONTAKT>
-            <EMAIL></EMAIL>
-            <URL></URL>
-            <REGION>:2:5:</REGION>
-            <RUBRIKID>:3:</RUBRIKID>
-            <POSITION>:1:</POSITION>
-            <BRANCHE>1</BRANCHE>
-            <ANSTELLUNGSGRAD>20</ANSTELLUNGSGRAD>
-            <ANSTELLUNGSGRAD_BIS>100</ANSTELLUNGSGRAD_BIS>
-            <ANSTELLUNGSART>:1:</ANSTELLUNGSART>
-            <SPRACHKENNTNIS_KANDIDAT>:0:</SPRACHKENNTNIS_KANDIDAT>
-            <SPRACHKENNTNIS_NIVEAU>:0:</SPRACHKENNTNIS_NIVEAU>
-            <ANGEBOT>51</ANGEBOT> 
-            <GEHALT_VON></GEHALT_VON>
-            <GEHALT_BIS></GEHALT_BIS>
-            <GEHALT_RATE></GEHALT_RATE>
-            <GEHALT_SICHTBAR></GEHALT_SICHTBAR>
-            <LAYOUT></LAYOUT>
-            <BANNER></BANNER> 
+            <VIDEO>https://www.youtube.com/shorts/UOuj-xgtGfk</VIDEO>
+            <BANNER></BANNER>
             <LOGO></LOGO>
-            <VIDEO>https://www.lunchbox.eu/wp-content/uploads/2018/02/v01_pixel-07-background-1200x400.jpg</VIDEO> 
             <USER_KONTAKT_ID></USER_KONTAKT_ID>
         </INSERAT>
         <INSERAT>
             <ORGANISATIONID>109746</ORGANISATIONID> 
-            <INSERATID>VM_16</INSERATID>
+            <INSERATID>MVN_4</INSERATID>
             <VORSPANN>This is a test ad. Please don't apply.</VORSPANN>
-            <BERUF>Test 16 (Optimalfalls + DIREKT_URL)</BERUF>
+            <BERUF>Test 4 (instagram)</BERUF>
             <TEXT>
-                BANNER: JPG: 1200x400 px, 23,6 MB: https://www.lunchbox.eu/wp-content/uploads/2018/02/v01_pixel-07-background-1200x400.jpg
-                LOGO: JPG: 320x320 px, 21,2 MB: https://esawebb.org/media/archives/images/medium/weic2216a.jpg
-                DIREKT_URL: https://mycareer.jobcloud.ch/en/jobs/10130/senior-product-manager-search-experience-100-fmd
+                instagram
+                https://www.instagram.com/p/CIlpDm8n6Ni/?igsh=MWljbGZ6d3pyeDcyZw==
             </TEXT>
             <SPRACHE>de</SPRACHE>
             <STRASSE>Albisriederstrasse</STRASSE>
@@ -559,232 +140,19 @@
             <GEHALT_RATE></GEHALT_RATE>
             <GEHALT_SICHTBAR></GEHALT_SICHTBAR>
             <LAYOUT></LAYOUT>
-            <BANNER>https://www.lunchbox.eu/wp-content/uploads/2018/02/v01_pixel-07-background-1200x400.jpg</BANNER> <LOGO>https://esawebb.org/media/archives/images/medium/weic2216a.jpg</LOGO>
-            <DIREKT_URL>https://mycareer.jobcloud.ch/en/jobs/10130/senior-product-manager-search-experience-100-fmd</DIREKT_URL>
-            <VIDEO></VIDEO> 
-            <USER_KONTAKT_ID></USER_KONTAKT_ID>
-        </INSERAT>
-        <INSERAT>
-            <ORGANISATIONID>109746</ORGANISATIONID> 
-            <INSERATID>VM_17</INSERATID>
-            <VORSPANN>This is a test ad. Please don't apply.</VORSPANN>
-            <BERUF>Test 17 (DL als BANNER und LOGO)</BERUF>
-            <TEXT>
-                BANNER: https://mycareer.jobcloud.ch/en/jobs/10130/senior-product-manager-search-experience-100-fmd
-                LOGO: https://mycareer.jobcloud.ch/en/jobs/10126/associate-software-engineer-atsi-100-fmd
-            </TEXT>
-            <SPRACHE>de</SPRACHE>
-            <STRASSE>Albisriederstrasse</STRASSE>
-            <PLZ>8000</PLZ>
-            <ORT>Zürich</ORT>
-            <KONTAKT></KONTAKT>
-            <EMAIL></EMAIL>
-            <URL></URL>
-            <REGION>:2:5:</REGION>
-            <RUBRIKID>:3:</RUBRIKID>
-            <POSITION>:1:</POSITION>
-            <BRANCHE>1</BRANCHE>
-            <ANSTELLUNGSGRAD>20</ANSTELLUNGSGRAD>
-            <ANSTELLUNGSGRAD_BIS>100</ANSTELLUNGSGRAD_BIS>
-            <ANSTELLUNGSART>:1:</ANSTELLUNGSART>
-            <SPRACHKENNTNIS_KANDIDAT>:0:</SPRACHKENNTNIS_KANDIDAT>
-            <SPRACHKENNTNIS_NIVEAU>:0:</SPRACHKENNTNIS_NIVEAU>
-            <ANGEBOT>51</ANGEBOT> 
-            <GEHALT_VON></GEHALT_VON>
-            <GEHALT_BIS></GEHALT_BIS>
-            <GEHALT_RATE></GEHALT_RATE>
-            <GEHALT_SICHTBAR></GEHALT_SICHTBAR>
-            <LAYOUT></LAYOUT>
-            <BANNER>https://mycareer.jobcloud.ch/en/jobs/10130/senior-product-manager-search-experience-100-fmd</BANNER> <LOGO>https://mycareer.jobcloud.ch/en/jobs/10126/associate-software-engineer-atsi-100-fmd</LOGO>
-            <VIDEO></VIDEO> 
-            <USER_KONTAKT_ID></USER_KONTAKT_ID>
-        </INSERAT>
-        <INSERAT>
-            <ORGANISATIONID>109746</ORGANISATIONID> 
-            <INSERATID>VM_18</INSERATID>
-            <VORSPANN>This is a test ad. Please don't apply.</VORSPANN>
-            <BERUF>Test 18 (BILD URL bei USER_KONTAKT_ID)</BERUF>
-            <TEXT>
-                USER_KONTAKT_ID: 320x320 px, 21,2 MB: https://esawebb.org/media/archives/images/medium/weic2216a.jpg
-            </TEXT>
-            <SPRACHE>de</SPRACHE>
-            <STRASSE>Albisriederstrasse</STRASSE>
-            <PLZ>8000</PLZ>
-            <ORT>Zürich</ORT>
-            <KONTAKT></KONTAKT>
-            <EMAIL></EMAIL>
-            <URL></URL>
-            <REGION>:2:5:</REGION>
-            <RUBRIKID>:3:</RUBRIKID>
-            <POSITION>:1:</POSITION>
-            <BRANCHE>1</BRANCHE>
-            <ANSTELLUNGSGRAD>20</ANSTELLUNGSGRAD>
-            <ANSTELLUNGSGRAD_BIS>100</ANSTELLUNGSGRAD_BIS>
-            <ANSTELLUNGSART>:1:</ANSTELLUNGSART>
-            <SPRACHKENNTNIS_KANDIDAT>:0:</SPRACHKENNTNIS_KANDIDAT>
-            <SPRACHKENNTNIS_NIVEAU>:0:</SPRACHKENNTNIS_NIVEAU>
-            <ANGEBOT>51</ANGEBOT> 
-            <GEHALT_VON></GEHALT_VON>
-            <GEHALT_BIS></GEHALT_BIS>
-            <GEHALT_RATE></GEHALT_RATE>
-            <GEHALT_SICHTBAR></GEHALT_SICHTBAR>
-            <LAYOUT></LAYOUT>
-            <BANNER></BANNER> 
+            <VIDEO>https://www.instagram.com/p/CIlpDm8n6Ni/?igsh=MWljbGZ6d3pyeDcyZw==</VIDEO>
+            <BANNER></BANNER>
             <LOGO></LOGO>
-            <VIDEO></VIDEO> <USER_KONTAKT_ID>https://esawebb.org/media/archives/images/medium/weic2216a.jpg</USER_KONTAKT_ID>
-        </INSERAT>
-        <INSERAT>
-            <ORGANISATIONID>110663</ORGANISATIONID> 
-            <INSERATID>VM_19</INSERATID>
-            <VORSPANN>This is a test ad. Please don't apply.</VORSPANN>
-            <BERUF>Test 19 (Default oder XML dominanter?)</BERUF>
-            <TEXT>
-                BANNER: JPG: 1200x400 px, 23,6 MB: https://www.lunchbox.eu/wp-content/uploads/2018/02/v01_pixel-07-background-1200x400.jpg
-                LOGO: JPG: 320x320 px, 21,2 MB: https://esawebb.org/media/archives/images/medium/weic2216a.jpg
-                VIDEO: https://vimeo.com/782903381
-            </TEXT>
-            <SPRACHE>de</SPRACHE>
-            <STRASSE>Albisriederstrasse</STRASSE>
-            <PLZ>8000</PLZ>
-            <ORT>Zürich</ORT>
-            <KONTAKT></KONTAKT>
-            <EMAIL></EMAIL>
-            <URL></URL>
-            <REGION>:2:5:</REGION>
-            <RUBRIKID>:3:</RUBRIKID>
-            <POSITION>:1:</POSITION>
-            <BRANCHE>1</BRANCHE>
-            <ANSTELLUNGSGRAD>20</ANSTELLUNGSGRAD>
-            <ANSTELLUNGSGRAD_BIS>100</ANSTELLUNGSGRAD_BIS>
-            <ANSTELLUNGSART>:1:</ANSTELLUNGSART>
-            <SPRACHKENNTNIS_KANDIDAT>:0:</SPRACHKENNTNIS_KANDIDAT>
-            <SPRACHKENNTNIS_NIVEAU>:0:</SPRACHKENNTNIS_NIVEAU>
-            <ANGEBOT>51</ANGEBOT> 
-            <GEHALT_VON></GEHALT_VON>
-            <GEHALT_BIS></GEHALT_BIS>
-            <GEHALT_RATE></GEHALT_RATE>
-            <GEHALT_SICHTBAR></GEHALT_SICHTBAR>
-            <LAYOUT></LAYOUT>
-            <BANNER>https://www.lunchbox.eu/wp-content/uploads/2018/02/v01_pixel-07-background-1200x400.jpg</BANNER> <LOGO>https://esawebb.org/media/archives/images/medium/weic2216a.jpg</LOGO>
-            <VIDEO>https://vimeo.com/782903381</VIDEO> 
-            <USER_KONTAKT_ID></USER_KONTAKT_ID>
-        </INSERAT>
-        <INSERAT>
-            <ORGANISATIONID>110663</ORGANISATIONID> 
-            <INSERATID>VM_20</INSERATID>
-            <VORSPANN>This is a test ad. Please don't apply.</VORSPANN>
-            <BERUF>Test 20 (Default Elemente + Käse)</BERUF>
-            <TEXT>
-                BANNER: https://mycareer.jobcloud.ch/en/jobs/10126/associate-software-engineer-atsi-100-fmd
-                LOGO: https://mycareer.jobcloud.ch/en/jobs/10130/senior-product-manager-search-experience-100-fmd
-                VIDEO: https://mycareer.jobcloud.ch/en/jobs/10129/client-success-specialist-60-fmd
-            </TEXT>
-            <SPRACHE>de</SPRACHE>
-            <STRASSE>Albisriederstrasse</STRASSE>
-            <PLZ>8000</PLZ>
-            <ORT>Zürich</ORT>
-            <KONTAKT></KONTAKT>
-            <EMAIL></EMAIL>
-            <URL></URL>
-            <REGION>:2:5:</REGION>
-            <RUBRIKID>:3:</RUBRIKID>
-            <POSITION>:1:</POSITION>
-            <BRANCHE>1</BRANCHE>
-            <ANSTELLUNGSGRAD>20</ANSTELLUNGSGRAD>
-            <ANSTELLUNGSGRAD_BIS>100</ANSTELLUNGSGRAD_BIS>
-            <ANSTELLUNGSART>:1:</ANSTELLUNGSART>
-            <SPRACHKENNTNIS_KANDIDAT>:0:</SPRACHKENNTNIS_KANDIDAT>
-            <SPRACHKENNTNIS_NIVEAU>:0:</SPRACHKENNTNIS_NIVEAU>
-            <ANGEBOT>51</ANGEBOT> 
-            <GEHALT_VON></GEHALT_VON>
-            <GEHALT_BIS></GEHALT_BIS>
-            <GEHALT_RATE></GEHALT_RATE>
-            <GEHALT_SICHTBAR></GEHALT_SICHTBAR>
-            <LAYOUT></LAYOUT>
-            <BANNER>https://mycareer.jobcloud.ch/en/jobs/10126/associate-software-engineer-atsi-100-fmd</BANNER> <LOGO>https://mycareer.jobcloud.ch/en/jobs/10130/senior-product-manager-search-experience-100-fmd</LOGO>
-            <VIDEO>https://mycareer.jobcloud.ch/en/jobs/10129/client-success-specialist-60-fmd</VIDEO> 
-            <USER_KONTAKT_ID></USER_KONTAKT_ID>
-        </INSERAT>
-        <INSERAT>
-            <ORGANISATIONID>110662</ORGANISATIONID> 
-            <INSERATID>VM_21</INSERATID>
-            <VORSPANN>This is a test ad. Please don't apply.</VORSPANN>
-            <BERUF>Test 21 (XML dominanter?)</BERUF>
-            <TEXT>
-                BANNER: JPG: 1200x400 px, 23,6 MB: https://www.lunchbox.eu/wp-content/uploads/2018/02/v01_pixel-07-background-1200x400.jpg
-                LOGO: JPG: 320x320 px, 21,2 MB: https://esawebb.org/media/archives/images/medium/weic2216a.jpg
-                VIDEO: https://vimeo.com/782903381
-            </TEXT>
-            <SPRACHE>de</SPRACHE>
-            <STRASSE>Albisriederstrasse</STRASSE>
-            <PLZ>8000</PLZ>
-            <ORT>Zürich</ORT>
-            <KONTAKT></KONTAKT>
-            <EMAIL></EMAIL>
-            <URL></URL>
-            <REGION>:2:5:</REGION>
-            <RUBRIKID>:3:</RUBRIKID>
-            <POSITION>:1:</POSITION>
-            <BRANCHE>1</BRANCHE>
-            <ANSTELLUNGSGRAD>20</ANSTELLUNGSGRAD>
-            <ANSTELLUNGSGRAD_BIS>100</ANSTELLUNGSGRAD_BIS>
-            <ANSTELLUNGSART>:1:</ANSTELLUNGSART>
-            <SPRACHKENNTNIS_KANDIDAT>:0:</SPRACHKENNTNIS_KANDIDAT>
-            <SPRACHKENNTNIS_NIVEAU>:0:</SPRACHKENNTNIS_NIVEAU>
-            <ANGEBOT>51</ANGEBOT> 
-            <GEHALT_VON></GEHALT_VON>
-            <GEHALT_BIS></GEHALT_BIS>
-            <GEHALT_RATE></GEHALT_RATE>
-            <GEHALT_SICHTBAR></GEHALT_SICHTBAR>
-            <LAYOUT></LAYOUT>
-            <BANNER>https://www.lunchbox.eu/wp-content/uploads/2018/02/v01_pixel-07-background-1200x400.jpg</BANNER> <LOGO>https://esawebb.org/media/archives/images/medium/weic2216a.jpg</LOGO>
-            <VIDEO>https://vimeo.com/782903381</VIDEO> 
-            <USER_KONTAKT_ID></USER_KONTAKT_ID>
-        </INSERAT>
-        <INSERAT>
-            <ORGANISATIONID>110662</ORGANISATIONID> 
-            <INSERATID>VM_22</INSERATID>
-            <VORSPANN>This is a test ad. Please don't apply.</VORSPANN>
-            <BERUF>Test 22 (Käse)</BERUF>
-            <TEXT>
-                BANNER: https://mycareer.jobcloud.ch/en/jobs/10126/associate-software-engineer-atsi-100-fmd
-                LOGO: https://mycareer.jobcloud.ch/en/jobs/10130/senior-product-manager-search-experience-100-fmd
-                VIDEO: https://mycareer.jobcloud.ch/en/jobs/10129/client-success-specialist-60-fmd
-            </TEXT>
-            <SPRACHE>de</SPRACHE>
-            <STRASSE>Albisriederstrasse</STRASSE>
-            <PLZ>8000</PLZ>
-            <ORT>Zürich</ORT>
-            <KONTAKT></KONTAKT>
-            <EMAIL></EMAIL>
-            <URL></URL>
-            <REGION>:2:5:</REGION>
-            <RUBRIKID>:3:</RUBRIKID>
-            <POSITION>:1:</POSITION>
-            <BRANCHE>1</BRANCHE>
-            <ANSTELLUNGSGRAD>20</ANSTELLUNGSGRAD>
-            <ANSTELLUNGSGRAD_BIS>100</ANSTELLUNGSGRAD_BIS>
-            <ANSTELLUNGSART>:1:</ANSTELLUNGSART>
-            <SPRACHKENNTNIS_KANDIDAT>:0:</SPRACHKENNTNIS_KANDIDAT>
-            <SPRACHKENNTNIS_NIVEAU>:0:</SPRACHKENNTNIS_NIVEAU>
-            <ANGEBOT>51</ANGEBOT> 
-            <GEHALT_VON></GEHALT_VON>
-            <GEHALT_BIS></GEHALT_BIS>
-            <GEHALT_RATE></GEHALT_RATE>
-            <GEHALT_SICHTBAR></GEHALT_SICHTBAR>
-            <LAYOUT></LAYOUT>
-            <BANNER>https://mycareer.jobcloud.ch/en/jobs/10126/associate-software-engineer-atsi-100-fmd</BANNER> <LOGO>https://mycareer.jobcloud.ch/en/jobs/10130/senior-product-manager-search-experience-100-fmd</LOGO>
-            <VIDEO>https://mycareer.jobcloud.ch/en/jobs/10129/client-success-specialist-60-fmd</VIDEO> 
             <USER_KONTAKT_ID></USER_KONTAKT_ID>
         </INSERAT>
         <INSERAT>
             <ORGANISATIONID>109746</ORGANISATIONID> 
-            <INSERATID>VM_23</INSERATID>
+            <INSERATID>MVN_5</INSERATID>
             <VORSPANN>This is a test ad. Please don't apply.</VORSPANN>
-            <BERUF>Test 23 (what happens when deleting a picture out of admin)</BERUF>
+            <BERUF>Test 5 (facebook)</BERUF>
             <TEXT>
-                BANNER https://img.jobs.ch/www/img/ci/N/NenoTest/Genau_1200x400.png
-                LOGO https://img.jobs.ch/www/img/ci/N/NenoTest/Affe_320x320.png
+                facebook
+                https://www.facebook.com/watch/?v=1048127493006626
             </TEXT>
             <SPRACHE>de</SPRACHE>
             <STRASSE>Albisriederstrasse</STRASSE>
@@ -808,8 +176,80 @@
             <GEHALT_RATE></GEHALT_RATE>
             <GEHALT_SICHTBAR></GEHALT_SICHTBAR>
             <LAYOUT></LAYOUT>
-            <BANNER>https://img.jobs.ch/www/img/ci/N/NenoTest/Genau_1200x400.png</BANNER><LOGO>https://img.jobs.ch/www/img/ci/N/NenoTest/Affe_320x320.png</LOGO>
-            <VIDEO></VIDEO> 
+            <VIDEO>https://www.facebook.com/watch/?v=1048127493006626</VIDEO>
+            <BANNER></BANNER>
+            <LOGO></LOGO>
+            <USER_KONTAKT_ID></USER_KONTAKT_ID>
+        </INSERAT>
+        <INSERAT>
+            <ORGANISATIONID>109746</ORGANISATIONID> 
+            <INSERATID>MVN_6</INSERATID>
+            <VORSPANN>This is a test ad. Please don't apply.</VORSPANN>
+            <BERUF>Test 6 (tiktok)</BERUF>
+            <TEXT>
+                tiktok
+                https://www.tiktok.com/@jobspunktch/video/7335495899554057505
+            </TEXT>
+            <SPRACHE>de</SPRACHE>
+            <STRASSE>Albisriederstrasse</STRASSE>
+            <PLZ>8000</PLZ>
+            <ORT>Zürich</ORT>
+            <KONTAKT></KONTAKT>
+            <EMAIL></EMAIL>
+            <URL></URL>
+            <REGION>:2:5:</REGION>
+            <RUBRIKID>:3:</RUBRIKID>
+            <POSITION>:1:</POSITION>
+            <BRANCHE>1</BRANCHE>
+            <ANSTELLUNGSGRAD>20</ANSTELLUNGSGRAD>
+            <ANSTELLUNGSGRAD_BIS>100</ANSTELLUNGSGRAD_BIS>
+            <ANSTELLUNGSART>:1:</ANSTELLUNGSART>
+            <SPRACHKENNTNIS_KANDIDAT>:0:</SPRACHKENNTNIS_KANDIDAT>
+            <SPRACHKENNTNIS_NIVEAU>:0:</SPRACHKENNTNIS_NIVEAU>
+            <ANGEBOT>51</ANGEBOT> 
+            <GEHALT_VON></GEHALT_VON>
+            <GEHALT_BIS></GEHALT_BIS>
+            <GEHALT_RATE></GEHALT_RATE>
+            <GEHALT_SICHTBAR></GEHALT_SICHTBAR>
+            <LAYOUT></LAYOUT>
+            <VIDEO>https://www.tiktok.com/@jobspunktch/video/7335495899554057505</VIDEO>
+            <BANNER></BANNER>
+            <LOGO></LOGO>
+            <USER_KONTAKT_ID></USER_KONTAKT_ID>
+        </INSERAT>
+        <INSERAT>
+            <ORGANISATIONID>109746</ORGANISATIONID> 
+            <INSERATID>MVN_7</INSERATID>
+            <VORSPANN>This is a test ad. Please don't apply.</VORSPANN>
+            <BERUF>Test 7 (video neven)</BERUF>
+            <TEXT>
+                https://img.jobs.ch/www/img/ci/N/NenoTest/Random_Video.mp4
+            </TEXT>
+            <SPRACHE>de</SPRACHE>
+            <STRASSE>Albisriederstrasse</STRASSE>
+            <PLZ>8000</PLZ>
+            <ORT>Zürich</ORT>
+            <KONTAKT></KONTAKT>
+            <EMAIL></EMAIL>
+            <URL></URL>
+            <REGION>:2:5:</REGION>
+            <RUBRIKID>:3:</RUBRIKID>
+            <POSITION>:1:</POSITION>
+            <BRANCHE>1</BRANCHE>
+            <ANSTELLUNGSGRAD>20</ANSTELLUNGSGRAD>
+            <ANSTELLUNGSGRAD_BIS>100</ANSTELLUNGSGRAD_BIS>
+            <ANSTELLUNGSART>:1:</ANSTELLUNGSART>
+            <SPRACHKENNTNIS_KANDIDAT>:0:</SPRACHKENNTNIS_KANDIDAT>
+            <SPRACHKENNTNIS_NIVEAU>:0:</SPRACHKENNTNIS_NIVEAU>
+            <ANGEBOT>51</ANGEBOT> 
+            <GEHALT_VON></GEHALT_VON>
+            <GEHALT_BIS></GEHALT_BIS>
+            <GEHALT_RATE></GEHALT_RATE>
+            <GEHALT_SICHTBAR></GEHALT_SICHTBAR>
+            <LAYOUT></LAYOUT>
+            <VIDEO>https://img.jobs.ch/www/img/ci/N/NenoTest/Random_Video.mp4</VIDEO>
+            <BANNER></BANNER>
+            <LOGO></LOGO>
             <USER_KONTAKT_ID></USER_KONTAKT_ID>
         </INSERAT>
     </INSERATE>
