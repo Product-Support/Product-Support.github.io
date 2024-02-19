@@ -3,13 +3,10 @@
     <INSERATE>
         <INSERAT>
             <ORGANISATIONID>109746</ORGANISATIONID> 
-            <INSERATID>MVN_1</INSERATID>
+            <INSERATID>V190224_1</INSERATID>
             <VORSPANN>This is a test ad. Please don't apply.</VORSPANN>
-            <BERUF>Test 1 (youtube normal)</BERUF>
-            <TEXT>
-                youtube normal
-                https://www.youtube.com/watch?v=vXYVfk7agqU
-            </TEXT>
+            <BERUF>Test 5 interface logo ID</BERUF>
+            <TEXT>This is a test ad. Please don't apply.</TEXT>
             <SPRACHE>de</SPRACHE>
             <STRASSE>Albisriederstrasse</STRASSE>
             <PLZ>8000</PLZ>
@@ -32,20 +29,83 @@
             <GEHALT_RATE></GEHALT_RATE>
             <GEHALT_SICHTBAR></GEHALT_SICHTBAR>
             <LAYOUT></LAYOUT>
-            <VIDEO>https://www.youtube.com/watch?v=vXYVfk7agqU</VIDEO>
+            <VIDEO></VIDEO>
+            <BANNER></BANNER>
+            <LOGO>316487</LOGO>
+            <USER_KONTAKT_ID></USER_KONTAKT_ID>
+        </INSERAT>
+        <INSERAT>
+            <ORGANISATIONID>109746</ORGANISATIONID> 
+            <INSERATID>V190224_2</INSERATID>
+            <VORSPANN>This is a test ad. Please don't apply.</VORSPANN>
+            <BERUF>Test 6 interface banner ID</BERUF>
+            <TEXT>This is a test ad. Please don't apply.</TEXT>
+            <SPRACHE>de</SPRACHE>
+            <STRASSE>Albisriederstrasse</STRASSE>
+            <PLZ>8000</PLZ>
+            <ORT>Zürich</ORT>
+            <KONTAKT></KONTAKT>
+            <EMAIL></EMAIL>
+            <URL></URL>
+            <REGION>:2:5:</REGION>
+            <RUBRIKID>:3:</RUBRIKID>
+            <POSITION>:1:</POSITION>
+            <BRANCHE>1</BRANCHE>
+            <ANSTELLUNGSGRAD>20</ANSTELLUNGSGRAD>
+            <ANSTELLUNGSGRAD_BIS>100</ANSTELLUNGSGRAD_BIS>
+            <ANSTELLUNGSART>:1:</ANSTELLUNGSART>
+            <SPRACHKENNTNIS_KANDIDAT>:0:</SPRACHKENNTNIS_KANDIDAT>
+            <SPRACHKENNTNIS_NIVEAU>:0:</SPRACHKENNTNIS_NIVEAU>
+            <ANGEBOT>51</ANGEBOT> 
+            <GEHALT_VON></GEHALT_VON>
+            <GEHALT_BIS></GEHALT_BIS>
+            <GEHALT_RATE></GEHALT_RATE>
+            <GEHALT_SICHTBAR></GEHALT_SICHTBAR>
+            <LAYOUT></LAYOUT>
+            <VIDEO></VIDEO>
+            <BANNER>18581</BANNER>
+            <LOGO></LOGO>
+            <USER_KONTAKT_ID></USER_KONTAKT_ID>
+        </INSERAT>
+        <INSERAT>
+            <ORGANISATIONID>109746</ORGANISATIONID> 
+            <INSERATID>V190224_3</INSERATID>
+            <VORSPANN>This is a test ad. Please don't apply.</VORSPANN>
+            <BERUF>Test 7 interface video ID</BERUF>
+            <TEXT>This is a test ad. Please don't apply.</TEXT>
+            <SPRACHE>de</SPRACHE>
+            <STRASSE>Albisriederstrasse</STRASSE>
+            <PLZ>8000</PLZ>
+            <ORT>Zürich</ORT>
+            <KONTAKT></KONTAKT>
+            <EMAIL></EMAIL>
+            <URL></URL>
+            <REGION>:2:5:</REGION>
+            <RUBRIKID>:3:</RUBRIKID>
+            <POSITION>:1:</POSITION>
+            <BRANCHE>1</BRANCHE>
+            <ANSTELLUNGSGRAD>20</ANSTELLUNGSGRAD>
+            <ANSTELLUNGSGRAD_BIS>100</ANSTELLUNGSGRAD_BIS>
+            <ANSTELLUNGSART>:1:</ANSTELLUNGSART>
+            <SPRACHKENNTNIS_KANDIDAT>:0:</SPRACHKENNTNIS_KANDIDAT>
+            <SPRACHKENNTNIS_NIVEAU>:0:</SPRACHKENNTNIS_NIVEAU>
+            <ANGEBOT>51</ANGEBOT> 
+            <GEHALT_VON></GEHALT_VON>
+            <GEHALT_BIS></GEHALT_BIS>
+            <GEHALT_RATE></GEHALT_RATE>
+            <GEHALT_SICHTBAR></GEHALT_SICHTBAR>
+            <LAYOUT></LAYOUT>
+            <VIDEO>1011</VIDEO>
             <BANNER></BANNER>
             <LOGO></LOGO>
             <USER_KONTAKT_ID></USER_KONTAKT_ID>
         </INSERAT>
         <INSERAT>
             <ORGANISATIONID>109746</ORGANISATIONID> 
-            <INSERATID>MVN_2</INSERATID>
+            <INSERATID>V190224_4</INSERATID>
             <VORSPANN>This is a test ad. Please don't apply.</VORSPANN>
-            <BERUF>Test 2 (youtube normal - ab XY Zeit)</BERUF>
-            <TEXT>
-                youtube normal - ab XY Zeit
-                https://youtu.be/VAH-ixdFWFs?feature=shared&t=281
-            </TEXT>
+            <BERUF>Test 8 interface contact ID</BERUF>
+            <TEXT>This is a test ad. Please don't apply.</TEXT>
             <SPRACHE>de</SPRACHE>
             <STRASSE>Albisriederstrasse</STRASSE>
             <PLZ>8000</PLZ>
@@ -68,20 +128,82 @@
             <GEHALT_RATE></GEHALT_RATE>
             <GEHALT_SICHTBAR></GEHALT_SICHTBAR>
             <LAYOUT></LAYOUT>
-            <VIDEO>https://youtu.be/VAH-ixdFWFs?feature=shared&t=281</VIDEO>
+            <VIDEO></VIDEO>
             <BANNER></BANNER>
+            <LOGO></LOGO>
+            <USER_KONTAKT_ID>169276</USER_KONTAKT_ID>
+        </INSERAT>
+        <INSERAT>
+            <ORGANISATIONID>109746</ORGANISATIONID> 
+            <INSERATID>V190224_5</INSERATID>
+            <VORSPANN>This is a test ad. Please don't apply.</VORSPANN>
+            <BERUF>Test 9 interface logo URL </BERUF>
+            <TEXT>This is a test ad. Please don't apply.</TEXT>
+            <SPRACHE>de</SPRACHE>
+            <STRASSE>Albisriederstrasse</STRASSE>
+            <PLZ>8000</PLZ>
+            <ORT>Zürich</ORT>
+            <KONTAKT></KONTAKT>
+            <EMAIL></EMAIL>
+            <URL></URL>
+            <REGION>:2:5:</REGION>
+            <RUBRIKID>:3:</RUBRIKID>
+            <POSITION>:1:</POSITION>
+            <BRANCHE>1</BRANCHE>
+            <ANSTELLUNGSGRAD>20</ANSTELLUNGSGRAD>
+            <ANSTELLUNGSGRAD_BIS>100</ANSTELLUNGSGRAD_BIS>
+            <ANSTELLUNGSART>:1:</ANSTELLUNGSART>
+            <SPRACHKENNTNIS_KANDIDAT>:0:</SPRACHKENNTNIS_KANDIDAT>
+            <SPRACHKENNTNIS_NIVEAU>:0:</SPRACHKENNTNIS_NIVEAU>
+            <ANGEBOT>51</ANGEBOT> 
+            <GEHALT_VON></GEHALT_VON>
+            <GEHALT_BIS></GEHALT_BIS>
+            <GEHALT_RATE></GEHALT_RATE>
+            <GEHALT_SICHTBAR></GEHALT_SICHTBAR>
+            <LAYOUT></LAYOUT>
+            <VIDEO></VIDEO>
+            <BANNER></BANNER> <LOGO>https://esawebb.org/media/archives/images/medium/weic2216a.jpg</LOGO>
+            <USER_KONTAKT_ID></USER_KONTAKT_ID>
+        </INSERAT>
+        <INSERAT>
+            <ORGANISATIONID>109746</ORGANISATIONID> 
+            <INSERATID>V190224_6</INSERATID>
+            <VORSPANN>This is a test ad. Please don't apply.</VORSPANN>
+            <BERUF>Test 10 interface banner URL</BERUF>
+            <TEXT>This is a test ad. Please don't apply.</TEXT>
+            <SPRACHE>de</SPRACHE>
+            <STRASSE>Albisriederstrasse</STRASSE>
+            <PLZ>8000</PLZ>
+            <ORT>Zürich</ORT>
+            <KONTAKT></KONTAKT>
+            <EMAIL></EMAIL>
+            <URL></URL>
+            <REGION>:2:5:</REGION>
+            <RUBRIKID>:3:</RUBRIKID>
+            <POSITION>:1:</POSITION>
+            <BRANCHE>1</BRANCHE>
+            <ANSTELLUNGSGRAD>20</ANSTELLUNGSGRAD>
+            <ANSTELLUNGSGRAD_BIS>100</ANSTELLUNGSGRAD_BIS>
+            <ANSTELLUNGSART>:1:</ANSTELLUNGSART>
+            <SPRACHKENNTNIS_KANDIDAT>:0:</SPRACHKENNTNIS_KANDIDAT>
+            <SPRACHKENNTNIS_NIVEAU>:0:</SPRACHKENNTNIS_NIVEAU>
+            <ANGEBOT>51</ANGEBOT> 
+            <GEHALT_VON></GEHALT_VON>
+            <GEHALT_BIS></GEHALT_BIS>
+            <GEHALT_RATE></GEHALT_RATE>
+            <GEHALT_SICHTBAR></GEHALT_SICHTBAR>
+            <LAYOUT></LAYOUT>
+            <VIDEO></VIDEO>
+            <BANNER>https://www.lunchbox.eu/wp-content/uploads/2018/02/v01_pixel-07-background-1200x400.jpg</BANNER> 
             <LOGO></LOGO>
             <USER_KONTAKT_ID></USER_KONTAKT_ID>
         </INSERAT>
         <INSERAT>
             <ORGANISATIONID>109746</ORGANISATIONID> 
-            <INSERATID>MVN_3</INSERATID>
+            <INSERATID>V190224_7</INSERATID>
             <VORSPANN>This is a test ad. Please don't apply.</VORSPANN>
-            <BERUF>Test 3 (shorts)</BERUF>
-            <TEXT>
-                shorts
-                https://www.youtube.com/shorts/UOuj-xgtGfk
-            </TEXT>
+            <BERUF>Test 11 interface video URL</BERUF>
+            <TEXT>This is a test ad. Please don't apply.</TEXT>
             <SPRACHE>de</SPRACHE>
             <STRASSE>Albisriederstrasse</STRASSE>
             <PLZ>8000</PLZ>
@@ -104,20 +226,17 @@
             <GEHALT_RATE></GEHALT_RATE>
             <GEHALT_SICHTBAR></GEHALT_SICHTBAR>
             <LAYOUT></LAYOUT>
-            <VIDEO>https://www.youtube.com/shorts/UOuj-xgtGfk</VIDEO>
-            <BANNER></BANNER>
+            <VIDEO>https://www.youtube.com/watch?v=cHKR5a83jaA</VIDEO>
+            <BANNER></BANNER> 
             <LOGO></LOGO>
             <USER_KONTAKT_ID></USER_KONTAKT_ID>
         </INSERAT>
         <INSERAT>
             <ORGANISATIONID>109746</ORGANISATIONID> 
-            <INSERATID>MVN_4</INSERATID>
+            <INSERATID>V190224_8</INSERATID>
             <VORSPANN>This is a test ad. Please don't apply.</VORSPANN>
-            <BERUF>Test 4 (instagram)</BERUF>
-            <TEXT>
-                instagram
-                https://www.instagram.com/p/CIlpDm8n6Ni/?igsh=MWljbGZ6d3pyeDcyZw==
-            </TEXT>
+            <BERUF>Test 12 interface logo (switch from ID to URL)</BERUF>
+            <TEXT>This is a test ad. Please don't apply.</TEXT>
             <SPRACHE>de</SPRACHE>
             <STRASSE>Albisriederstrasse</STRASSE>
             <PLZ>8000</PLZ>
@@ -140,20 +259,17 @@
             <GEHALT_RATE></GEHALT_RATE>
             <GEHALT_SICHTBAR></GEHALT_SICHTBAR>
             <LAYOUT></LAYOUT>
-            <VIDEO>https://www.instagram.com/p/CIlpDm8n6Ni/?igsh=MWljbGZ6d3pyeDcyZw==</VIDEO>
-            <BANNER></BANNER>
-            <LOGO></LOGO>
+            <VIDEO></VIDEO>
+            <BANNER></BANNER> 
+            <LOGO>316487</LOGO>
             <USER_KONTAKT_ID></USER_KONTAKT_ID>
         </INSERAT>
         <INSERAT>
             <ORGANISATIONID>109746</ORGANISATIONID> 
-            <INSERATID>MVN_5</INSERATID>
+            <INSERATID>V190224_9</INSERATID>
             <VORSPANN>This is a test ad. Please don't apply.</VORSPANN>
-            <BERUF>Test 5 (facebook)</BERUF>
-            <TEXT>
-                facebook
-                https://www.facebook.com/watch/?v=1048127493006626
-            </TEXT>
+            <BERUF>Test 13 interface logo (switch from URL to ID)</BERUF>
+            <TEXT>This is a test ad. Please don't apply.</TEXT>
             <SPRACHE>de</SPRACHE>
             <STRASSE>Albisriederstrasse</STRASSE>
             <PLZ>8000</PLZ>
@@ -176,20 +292,16 @@
             <GEHALT_RATE></GEHALT_RATE>
             <GEHALT_SICHTBAR></GEHALT_SICHTBAR>
             <LAYOUT></LAYOUT>
-            <VIDEO>https://www.facebook.com/watch/?v=1048127493006626</VIDEO>
-            <BANNER></BANNER>
-            <LOGO></LOGO>
+            <VIDEO></VIDEO>
+            <BANNER></BANNER> <LOGO>https://esawebb.org/media/archives/images/medium/weic2216a.jpg</LOGO>
             <USER_KONTAKT_ID></USER_KONTAKT_ID>
         </INSERAT>
         <INSERAT>
-            <ORGANISATIONID>109746</ORGANISATIONID> 
-            <INSERATID>MVN_6</INSERATID>
+            <ORGANISATIONID>110663</ORGANISATIONID> 
+            <INSERATID>V190224_10</INSERATID>
             <VORSPANN>This is a test ad. Please don't apply.</VORSPANN>
-            <BERUF>Test 6 (tiktok)</BERUF>
-            <TEXT>
-                tiktok
-                https://www.tiktok.com/@jobspunktch/video/7335495899554057505
-            </TEXT>
+            <BERUF>Test 14 interface logo ID (switch from child ID to mother ID)</BERUF>
+            <TEXT>This is a test ad. Please don't apply.</TEXT>
             <SPRACHE>de</SPRACHE>
             <STRASSE>Albisriederstrasse</STRASSE>
             <PLZ>8000</PLZ>
@@ -212,19 +324,17 @@
             <GEHALT_RATE></GEHALT_RATE>
             <GEHALT_SICHTBAR></GEHALT_SICHTBAR>
             <LAYOUT></LAYOUT>
-            <VIDEO>https://www.tiktok.com/@jobspunktch/video/7335495899554057505</VIDEO>
-            <BANNER></BANNER>
-            <LOGO></LOGO>
+            <VIDEO></VIDEO>
+            <BANNER></BANNER> 
+            <LOGO>316460</LOGO>
             <USER_KONTAKT_ID></USER_KONTAKT_ID>
         </INSERAT>
         <INSERAT>
-            <ORGANISATIONID>109746</ORGANISATIONID> 
-            <INSERATID>MVN_7</INSERATID>
+            <ORGANISATIONID>110663</ORGANISATIONID> 
+            <INSERATID>V190224_11</INSERATID>
             <VORSPANN>This is a test ad. Please don't apply.</VORSPANN>
-            <BERUF>Test 7 (video neven)</BERUF>
-            <TEXT>
-                https://img.jobs.ch/www/img/ci/N/NenoTest/Random_Video.mp4
-            </TEXT>
+            <BERUF>Test 15 interface logo ID (switch from URL to mother ID)</BERUF>
+            <TEXT>This is a test ad. Please don't apply.</TEXT>
             <SPRACHE>de</SPRACHE>
             <STRASSE>Albisriederstrasse</STRASSE>
             <PLZ>8000</PLZ>
@@ -247,149 +357,8 @@
             <GEHALT_RATE></GEHALT_RATE>
             <GEHALT_SICHTBAR></GEHALT_SICHTBAR>
             <LAYOUT></LAYOUT>
-            <VIDEO>https://img.jobs.ch/www/img/ci/N/NenoTest/Random_Video.mp4</VIDEO>
-            <BANNER></BANNER>
-            <LOGO></LOGO>
-            <USER_KONTAKT_ID></USER_KONTAKT_ID>
-        </INSERAT>
-        <INSERAT>
-            <ORGANISATIONID>109746</ORGANISATIONID> 
-            <INSERATID>MVN_8</INSERATID>
-            <VORSPANN>This is a test ad. Please don't apply.</VORSPANN>
-            <BERUF>Test 8 (vimeo 1)</BERUF>
-            <TEXT>
-                https://vimeo.com/manage/videos/912980900
-            </TEXT>
-            <SPRACHE>de</SPRACHE>
-            <STRASSE>Albisriederstrasse</STRASSE>
-            <PLZ>8000</PLZ>
-            <ORT>Zürich</ORT>
-            <KONTAKT></KONTAKT>
-            <EMAIL></EMAIL>
-            <URL></URL>
-            <REGION>:2:5:</REGION>
-            <RUBRIKID>:3:</RUBRIKID>
-            <POSITION>:1:</POSITION>
-            <BRANCHE>1</BRANCHE>
-            <ANSTELLUNGSGRAD>20</ANSTELLUNGSGRAD>
-            <ANSTELLUNGSGRAD_BIS>100</ANSTELLUNGSGRAD_BIS>
-            <ANSTELLUNGSART>:1:</ANSTELLUNGSART>
-            <SPRACHKENNTNIS_KANDIDAT>:0:</SPRACHKENNTNIS_KANDIDAT>
-            <SPRACHKENNTNIS_NIVEAU>:0:</SPRACHKENNTNIS_NIVEAU>
-            <ANGEBOT>51</ANGEBOT> 
-            <GEHALT_VON></GEHALT_VON>
-            <GEHALT_BIS></GEHALT_BIS>
-            <GEHALT_RATE></GEHALT_RATE>
-            <GEHALT_SICHTBAR></GEHALT_SICHTBAR>
-            <LAYOUT></LAYOUT>
-            <VIDEO>https://vimeo.com/manage/videos/912980900</VIDEO>
-            <BANNER></BANNER>
-            <LOGO></LOGO>
-            <USER_KONTAKT_ID></USER_KONTAKT_ID>
-        </INSERAT>
-        <INSERAT>
-            <ORGANISATIONID>109746</ORGANISATIONID> 
-            <INSERATID>MVN_10</INSERATID>
-            <VORSPANN>This is a test ad. Please don't apply.</VORSPANN>
-            <BERUF>Test 10 (vimeo 3)</BERUF>
-            <TEXT>
-                https://vimeo.com/912980900
-            </TEXT>
-            <SPRACHE>de</SPRACHE>
-            <STRASSE>Albisriederstrasse</STRASSE>
-            <PLZ>8000</PLZ>
-            <ORT>Zürich</ORT>
-            <KONTAKT></KONTAKT>
-            <EMAIL></EMAIL>
-            <URL></URL>
-            <REGION>:2:5:</REGION>
-            <RUBRIKID>:3:</RUBRIKID>
-            <POSITION>:1:</POSITION>
-            <BRANCHE>1</BRANCHE>
-            <ANSTELLUNGSGRAD>20</ANSTELLUNGSGRAD>
-            <ANSTELLUNGSGRAD_BIS>100</ANSTELLUNGSGRAD_BIS>
-            <ANSTELLUNGSART>:1:</ANSTELLUNGSART>
-            <SPRACHKENNTNIS_KANDIDAT>:0:</SPRACHKENNTNIS_KANDIDAT>
-            <SPRACHKENNTNIS_NIVEAU>:0:</SPRACHKENNTNIS_NIVEAU>
-            <ANGEBOT>51</ANGEBOT> 
-            <GEHALT_VON></GEHALT_VON>
-            <GEHALT_BIS></GEHALT_BIS>
-            <GEHALT_RATE></GEHALT_RATE>
-            <GEHALT_SICHTBAR></GEHALT_SICHTBAR>
-            <LAYOUT></LAYOUT>
-            <VIDEO>https://vimeo.com/912980900</VIDEO>
-            <BANNER></BANNER>
-            <LOGO></LOGO>
-            <USER_KONTAKT_ID></USER_KONTAKT_ID>
-        </INSERAT>
-        <INSERAT>
-            <ORGANISATIONID>109746</ORGANISATIONID> 
-            <INSERATID>MVN_11</INSERATID>
-            <VORSPANN>This is a test ad. Please don't apply.</VORSPANN>
-            <BERUF>Test 11 (youtube share link)</BERUF>
-            <TEXT>
-                https://youtu.be/vXYVfk7agqU?feature=shared
-            </TEXT>
-            <SPRACHE>de</SPRACHE>
-            <STRASSE>Albisriederstrasse</STRASSE>
-            <PLZ>8000</PLZ>
-            <ORT>Zürich</ORT>
-            <KONTAKT></KONTAKT>
-            <EMAIL></EMAIL>
-            <URL></URL>
-            <REGION>:2:5:</REGION>
-            <RUBRIKID>:3:</RUBRIKID>
-            <POSITION>:1:</POSITION>
-            <BRANCHE>1</BRANCHE>
-            <ANSTELLUNGSGRAD>20</ANSTELLUNGSGRAD>
-            <ANSTELLUNGSGRAD_BIS>100</ANSTELLUNGSGRAD_BIS>
-            <ANSTELLUNGSART>:1:</ANSTELLUNGSART>
-            <SPRACHKENNTNIS_KANDIDAT>:0:</SPRACHKENNTNIS_KANDIDAT>
-            <SPRACHKENNTNIS_NIVEAU>:0:</SPRACHKENNTNIS_NIVEAU>
-            <ANGEBOT>51</ANGEBOT> 
-            <GEHALT_VON></GEHALT_VON>
-            <GEHALT_BIS></GEHALT_BIS>
-            <GEHALT_RATE></GEHALT_RATE>
-            <GEHALT_SICHTBAR></GEHALT_SICHTBAR>
-            <LAYOUT></LAYOUT>
-            <VIDEO>https://youtu.be/vXYVfk7agqU?feature=shared</VIDEO>
-            <BANNER></BANNER>
-            <LOGO></LOGO>
-            <USER_KONTAKT_ID></USER_KONTAKT_ID>
-        </INSERAT>
-        <INSERAT>
-            <ORGANISATIONID>109746</ORGANISATIONID> 
-            <INSERATID>MVN_12</INSERATID>
-            <VORSPANN>This is a test ad. Please don't apply.</VORSPANN>
-            <BERUF>Test 12 (vimeo sharing like)</BERUF>
-            <TEXT>
-                https://vimeo.com/912980900?share=copy
-            </TEXT>
-            <SPRACHE>de</SPRACHE>
-            <STRASSE>Albisriederstrasse</STRASSE>
-            <PLZ>8000</PLZ>
-            <ORT>Zürich</ORT>
-            <KONTAKT></KONTAKT>
-            <EMAIL></EMAIL>
-            <URL></URL>
-            <REGION>:2:5:</REGION>
-            <RUBRIKID>:3:</RUBRIKID>
-            <POSITION>:1:</POSITION>
-            <BRANCHE>1</BRANCHE>
-            <ANSTELLUNGSGRAD>20</ANSTELLUNGSGRAD>
-            <ANSTELLUNGSGRAD_BIS>100</ANSTELLUNGSGRAD_BIS>
-            <ANSTELLUNGSART>:1:</ANSTELLUNGSART>
-            <SPRACHKENNTNIS_KANDIDAT>:0:</SPRACHKENNTNIS_KANDIDAT>
-            <SPRACHKENNTNIS_NIVEAU>:0:</SPRACHKENNTNIS_NIVEAU>
-            <ANGEBOT>51</ANGEBOT> 
-            <GEHALT_VON></GEHALT_VON>
-            <GEHALT_BIS></GEHALT_BIS>
-            <GEHALT_RATE></GEHALT_RATE>
-            <GEHALT_SICHTBAR></GEHALT_SICHTBAR>
-            <LAYOUT></LAYOUT>
-            <VIDEO>https://vimeo.com/912980900?share=copy</VIDEO>
-            <BANNER></BANNER>
-            <LOGO></LOGO>
+            <VIDEO></VIDEO>
+            <BANNER></BANNER> <LOGO>https://esawebb.org/media/archives/images/medium/weic2216a.jpg</LOGO>
             <USER_KONTAKT_ID></USER_KONTAKT_ID>
         </INSERAT>
     </INSERATE>
