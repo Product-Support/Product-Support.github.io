@@ -31,7 +31,7 @@
             <LAYOUT></LAYOUT>
             <VIDEO></VIDEO>
             <BANNER></BANNER>
-            <LOGO>316487</LOGO>
+            <LOGO>316503</LOGO>
             <USER_KONTAKT_ID></USER_KONTAKT_ID>
         </INSERAT>
         <INSERAT>
@@ -63,7 +63,7 @@
             <GEHALT_SICHTBAR></GEHALT_SICHTBAR>
             <LAYOUT></LAYOUT>
             <VIDEO></VIDEO>
-            <BANNER>18581</BANNER>
+            <BANNER>18582</BANNER>
             <LOGO></LOGO>
             <USER_KONTAKT_ID></USER_KONTAKT_ID>
         </INSERAT>
@@ -95,7 +95,7 @@
             <GEHALT_RATE></GEHALT_RATE>
             <GEHALT_SICHTBAR></GEHALT_SICHTBAR>
             <LAYOUT></LAYOUT>
-            <VIDEO>1011</VIDEO>
+            <VIDEO>1012</VIDEO>
             <BANNER></BANNER>
             <LOGO></LOGO>
             <USER_KONTAKT_ID></USER_KONTAKT_ID>
@@ -131,7 +131,7 @@
             <VIDEO></VIDEO>
             <BANNER></BANNER>
             <LOGO></LOGO>
-            <USER_KONTAKT_ID>169276</USER_KONTAKT_ID>
+            <USER_KONTAKT_ID>169382</USER_KONTAKT_ID>
         </INSERAT>
         <INSERAT>
             <ORGANISATIONID>109746</ORGANISATIONID> 
@@ -162,7 +162,8 @@
             <GEHALT_SICHTBAR></GEHALT_SICHTBAR>
             <LAYOUT></LAYOUT>
             <VIDEO></VIDEO>
-            <BANNER></BANNER> <LOGO>https://esawebb.org/media/archives/images/medium/weic2216a.jpg</LOGO>
+            <BANNER></BANNER> 
+            <LOGO>https://img.jobs.ch/www/img/ci/N/NenoTest/V2_600x600.jpg</LOGO>
             <USER_KONTAKT_ID></USER_KONTAKT_ID>
         </INSERAT>
         <INSERAT>
@@ -194,7 +195,7 @@
             <GEHALT_SICHTBAR></GEHALT_SICHTBAR>
             <LAYOUT></LAYOUT>
             <VIDEO></VIDEO>
-            <BANNER>https://www.lunchbox.eu/wp-content/uploads/2018/02/v01_pixel-07-background-1200x400.jpg</BANNER> 
+            <BANNER>https://colesclassroom.com/wp-content/uploads/2018/10/pexels-photo-1454825.jpeg</BANNER> 
             <LOGO></LOGO>
             <USER_KONTAKT_ID></USER_KONTAKT_ID>
         </INSERAT>
@@ -226,7 +227,7 @@
             <GEHALT_RATE></GEHALT_RATE>
             <GEHALT_SICHTBAR></GEHALT_SICHTBAR>
             <LAYOUT></LAYOUT>
-            <VIDEO>https://www.youtube.com/watch?v=cHKR5a83jaA</VIDEO>
+            <VIDEO>https://vimeo.com/782903381</VIDEO>
             <BANNER></BANNER> 
             <LOGO></LOGO>
             <USER_KONTAKT_ID></USER_KONTAKT_ID>
@@ -261,7 +262,7 @@
             <LAYOUT></LAYOUT>
             <VIDEO></VIDEO>
             <BANNER></BANNER> 
-            <LOGO>316487</LOGO>
+            <LOGO>https://esawebb.org/media/archives/images/medium/weic2216a.jpg</LOGO>
             <USER_KONTAKT_ID></USER_KONTAKT_ID>
         </INSERAT>
         <INSERAT>
@@ -293,7 +294,8 @@
             <GEHALT_SICHTBAR></GEHALT_SICHTBAR>
             <LAYOUT></LAYOUT>
             <VIDEO></VIDEO>
-            <BANNER></BANNER> <LOGO>https://esawebb.org/media/archives/images/medium/weic2216a.jpg</LOGO>
+            <BANNER></BANNER> 
+            <LOGO>316487</LOGO>
             <USER_KONTAKT_ID></USER_KONTAKT_ID>
         </INSERAT>
         <INSERAT>
@@ -326,7 +328,7 @@
             <LAYOUT></LAYOUT>
             <VIDEO></VIDEO>
             <BANNER></BANNER> 
-            <LOGO>316460</LOGO>
+            <LOGO>316450</LOGO>
             <USER_KONTAKT_ID></USER_KONTAKT_ID>
         </INSERAT>
         <INSERAT>
@@ -358,7 +360,8 @@
             <GEHALT_SICHTBAR></GEHALT_SICHTBAR>
             <LAYOUT></LAYOUT>
             <VIDEO></VIDEO>
-            <BANNER></BANNER> <LOGO>https://esawebb.org/media/archives/images/medium/weic2216a.jpg</LOGO>
+            <BANNER></BANNER> 
+            <LOGO>316450</LOGO>
             <USER_KONTAKT_ID></USER_KONTAKT_ID>
         </INSERAT>
     </INSERATE>
