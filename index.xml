@@ -3,108 +3,9 @@
     <INSERATE>
         <INSERAT>
             <ORGANISATIONID>109746</ORGANISATIONID> 
-            <INSERATID>V190224_1</INSERATID>
+            <INSERATID>V180324_1</INSERATID>
             <VORSPANN>This is a test ad. Please don't apply.</VORSPANN>
-            <BERUF>Test 5 interface logo ID</BERUF>
-            <TEXT>This is a test ad. Please don't apply.</TEXT>
-            <SPRACHE>de</SPRACHE>
-            <STRASSE>Albisriederstrasse</STRASSE>
-            <PLZ>8000</PLZ>
-            <ORT>Zürich</ORT>
-            <KONTAKT></KONTAKT>
-            <EMAIL></EMAIL>
-            <URL></URL>
-            <REGION>:2:5:</REGION>
-            <RUBRIKID>:3:</RUBRIKID>
-            <POSITION>:1:</POSITION>
-            <BRANCHE>1</BRANCHE>
-            <ANSTELLUNGSGRAD>20</ANSTELLUNGSGRAD>
-            <ANSTELLUNGSGRAD_BIS>100</ANSTELLUNGSGRAD_BIS>
-            <ANSTELLUNGSART>:1:</ANSTELLUNGSART>
-            <SPRACHKENNTNIS_KANDIDAT>:0:</SPRACHKENNTNIS_KANDIDAT>
-            <SPRACHKENNTNIS_NIVEAU>:0:</SPRACHKENNTNIS_NIVEAU>
-            <ANGEBOT>51</ANGEBOT> 
-            <GEHALT_VON></GEHALT_VON>
-            <GEHALT_BIS></GEHALT_BIS>
-            <GEHALT_RATE></GEHALT_RATE>
-            <GEHALT_SICHTBAR></GEHALT_SICHTBAR>
-            <LAYOUT></LAYOUT>
-            <VIDEO></VIDEO>
-            <BANNER></BANNER>
-            <LOGO>316503</LOGO>
-            <USER_KONTAKT_ID></USER_KONTAKT_ID>
-        </INSERAT>
-        <INSERAT>
-            <ORGANISATIONID>109746</ORGANISATIONID> 
-            <INSERATID>V190224_2</INSERATID>
-            <VORSPANN>This is a test ad. Please don't apply.</VORSPANN>
-            <BERUF>Test 6 interface banner ID</BERUF>
-            <TEXT>This is a test ad. Please don't apply.</TEXT>
-            <SPRACHE>de</SPRACHE>
-            <STRASSE>Albisriederstrasse</STRASSE>
-            <PLZ>8000</PLZ>
-            <ORT>Zürich</ORT>
-            <KONTAKT></KONTAKT>
-            <EMAIL></EMAIL>
-            <URL></URL>
-            <REGION>:2:5:</REGION>
-            <RUBRIKID>:3:</RUBRIKID>
-            <POSITION>:1:</POSITION>
-            <BRANCHE>1</BRANCHE>
-            <ANSTELLUNGSGRAD>20</ANSTELLUNGSGRAD>
-            <ANSTELLUNGSGRAD_BIS>100</ANSTELLUNGSGRAD_BIS>
-            <ANSTELLUNGSART>:1:</ANSTELLUNGSART>
-            <SPRACHKENNTNIS_KANDIDAT>:0:</SPRACHKENNTNIS_KANDIDAT>
-            <SPRACHKENNTNIS_NIVEAU>:0:</SPRACHKENNTNIS_NIVEAU>
-            <ANGEBOT>51</ANGEBOT> 
-            <GEHALT_VON></GEHALT_VON>
-            <GEHALT_BIS></GEHALT_BIS>
-            <GEHALT_RATE></GEHALT_RATE>
-            <GEHALT_SICHTBAR></GEHALT_SICHTBAR>
-            <LAYOUT></LAYOUT>
-            <VIDEO></VIDEO>
-            <BANNER>18582</BANNER>
-            <LOGO></LOGO>
-            <USER_KONTAKT_ID></USER_KONTAKT_ID>
-        </INSERAT>
-        <INSERAT>
-            <ORGANISATIONID>109746</ORGANISATIONID> 
-            <INSERATID>V190224_3</INSERATID>
-            <VORSPANN>This is a test ad. Please don't apply.</VORSPANN>
-            <BERUF>Test 7 interface video ID</BERUF>
-            <TEXT>This is a test ad. Please don't apply.</TEXT>
-            <SPRACHE>de</SPRACHE>
-            <STRASSE>Albisriederstrasse</STRASSE>
-            <PLZ>8000</PLZ>
-            <ORT>Zürich</ORT>
-            <KONTAKT></KONTAKT>
-            <EMAIL></EMAIL>
-            <URL></URL>
-            <REGION>:2:5:</REGION>
-            <RUBRIKID>:3:</RUBRIKID>
-            <POSITION>:1:</POSITION>
-            <BRANCHE>1</BRANCHE>
-            <ANSTELLUNGSGRAD>20</ANSTELLUNGSGRAD>
-            <ANSTELLUNGSGRAD_BIS>100</ANSTELLUNGSGRAD_BIS>
-            <ANSTELLUNGSART>:1:</ANSTELLUNGSART>
-            <SPRACHKENNTNIS_KANDIDAT>:0:</SPRACHKENNTNIS_KANDIDAT>
-            <SPRACHKENNTNIS_NIVEAU>:0:</SPRACHKENNTNIS_NIVEAU>
-            <ANGEBOT>51</ANGEBOT> 
-            <GEHALT_VON></GEHALT_VON>
-            <GEHALT_BIS></GEHALT_BIS>
-            <GEHALT_RATE></GEHALT_RATE>
-            <GEHALT_SICHTBAR></GEHALT_SICHTBAR>
-            <LAYOUT></LAYOUT>
-            <VIDEO>1012</VIDEO>
-            <BANNER></BANNER>
-            <LOGO></LOGO>
-            <USER_KONTAKT_ID></USER_KONTAKT_ID>
-        </INSERAT>
-        <INSERAT>
-            <ORGANISATIONID>109746</ORGANISATIONID> 
-            <INSERATID>V190224_4</INSERATID>
-            <VORSPANN>This is a test ad. Please don't apply.</VORSPANN>
-            <BERUF>Test 8 interface contact ID</BERUF>
+            <BERUF>Test 1 - no DL / target no ID</BERUF>
             <TEXT>This is a test ad. Please don't apply.</TEXT>
             <SPRACHE>de</SPRACHE>
             <STRASSE>Albisriederstrasse</STRASSE>
@@ -131,46 +32,13 @@
             <VIDEO></VIDEO>
             <BANNER></BANNER>
             <LOGO></LOGO>
-            <USER_KONTAKT_ID>169382</USER_KONTAKT_ID>
-        </INSERAT>
-        <INSERAT>
-            <ORGANISATIONID>109746</ORGANISATIONID> 
-            <INSERATID>V190224_5</INSERATID>
-            <VORSPANN>This is a test ad. Please don't apply.</VORSPANN>
-            <BERUF>Test 9 interface logo URL </BERUF>
-            <TEXT>This is a test ad. Please don't apply.</TEXT>
-            <SPRACHE>de</SPRACHE>
-            <STRASSE>Albisriederstrasse</STRASSE>
-            <PLZ>8000</PLZ>
-            <ORT>Zürich</ORT>
-            <KONTAKT></KONTAKT>
-            <EMAIL></EMAIL>
-            <URL></URL>
-            <REGION>:2:5:</REGION>
-            <RUBRIKID>:3:</RUBRIKID>
-            <POSITION>:1:</POSITION>
-            <BRANCHE>1</BRANCHE>
-            <ANSTELLUNGSGRAD>20</ANSTELLUNGSGRAD>
-            <ANSTELLUNGSGRAD_BIS>100</ANSTELLUNGSGRAD_BIS>
-            <ANSTELLUNGSART>:1:</ANSTELLUNGSART>
-            <SPRACHKENNTNIS_KANDIDAT>:0:</SPRACHKENNTNIS_KANDIDAT>
-            <SPRACHKENNTNIS_NIVEAU>:0:</SPRACHKENNTNIS_NIVEAU>
-            <ANGEBOT>51</ANGEBOT> 
-            <GEHALT_VON></GEHALT_VON>
-            <GEHALT_BIS></GEHALT_BIS>
-            <GEHALT_RATE></GEHALT_RATE>
-            <GEHALT_SICHTBAR></GEHALT_SICHTBAR>
-            <LAYOUT></LAYOUT>
-            <VIDEO></VIDEO>
-            <BANNER></BANNER> 
-            <LOGO>https://img.jobs.ch/www/img/ci/N/NenoTest/V2_600x600.jpg</LOGO>
             <USER_KONTAKT_ID></USER_KONTAKT_ID>
         </INSERAT>
         <INSERAT>
             <ORGANISATIONID>109746</ORGANISATIONID> 
-            <INSERATID>V190224_6</INSERATID>
+            <INSERATID>V180324_2</INSERATID>
             <VORSPANN>This is a test ad. Please don't apply.</VORSPANN>
-            <BERUF>Test 10 interface banner URL</BERUF>
+            <BERUF>Test 2 - no DL / target ci layout ID 10598</BERUF>
             <TEXT>This is a test ad. Please don't apply.</TEXT>
             <SPRACHE>de</SPRACHE>
             <STRASSE>Albisriederstrasse</STRASSE>
@@ -193,17 +61,17 @@
             <GEHALT_BIS></GEHALT_BIS>
             <GEHALT_RATE></GEHALT_RATE>
             <GEHALT_SICHTBAR></GEHALT_SICHTBAR>
-            <LAYOUT></LAYOUT>
+            <LAYOUT>10598</LAYOUT>
             <VIDEO></VIDEO>
-            <BANNER>https://colesclassroom.com/wp-content/uploads/2018/10/pexels-photo-1454825.jpeg</BANNER> 
+            <BANNER></BANNER>
             <LOGO></LOGO>
             <USER_KONTAKT_ID></USER_KONTAKT_ID>
         </INSERAT>
         <INSERAT>
             <ORGANISATIONID>109746</ORGANISATIONID> 
-            <INSERATID>V190224_7</INSERATID>
+            <INSERATID>V180324_3</INSERATID>
             <VORSPANN>This is a test ad. Please don't apply.</VORSPANN>
-            <BERUF>Test 11 interface video URL</BERUF>
+            <BERUF>Test 3 - with DL / target no ID</BERUF>
             <TEXT>This is a test ad. Please don't apply.</TEXT>
             <SPRACHE>de</SPRACHE>
             <STRASSE>Albisriederstrasse</STRASSE>
@@ -227,16 +95,17 @@
             <GEHALT_RATE></GEHALT_RATE>
             <GEHALT_SICHTBAR></GEHALT_SICHTBAR>
             <LAYOUT></LAYOUT>
-            <VIDEO>https://vimeo.com/782903381</VIDEO>
-            <BANNER></BANNER> 
+            <DIREKT_URL>https://mycareer.jobcloud.ch/de/jobs/10112/sales-support-specialist-80-100</DIREKT_URL>
+            <VIDEO></VIDEO>
+            <BANNER></BANNER>
             <LOGO></LOGO>
             <USER_KONTAKT_ID></USER_KONTAKT_ID>
         </INSERAT>
-        <INSERAT>
+        <INSERAT>   
             <ORGANISATIONID>109746</ORGANISATIONID> 
-            <INSERATID>V190224_8</INSERATID>
+            <INSERATID>V180324_4</INSERATID>
             <VORSPANN>This is a test ad. Please don't apply.</VORSPANN>
-            <BERUF>Test 12 interface logo (switch from ID to URL)</BERUF>
+            <BERUF>Test 4 - with DL / target ci layout ID 10598</BERUF>
             <TEXT>This is a test ad. Please don't apply.</TEXT>
             <SPRACHE>de</SPRACHE>
             <STRASSE>Albisriederstrasse</STRASSE>
@@ -259,17 +128,18 @@
             <GEHALT_BIS></GEHALT_BIS>
             <GEHALT_RATE></GEHALT_RATE>
             <GEHALT_SICHTBAR></GEHALT_SICHTBAR>
-            <LAYOUT></LAYOUT>
+            <LAYOUT>10598</LAYOUT>
+            <DIREKT_URL>https://mycareer.jobcloud.ch/de/jobs/10112/sales-support-specialist-80-100</DIREKT_URL>
             <VIDEO></VIDEO>
-            <BANNER></BANNER> 
-            <LOGO>https://esawebb.org/media/archives/images/medium/weic2216a.jpg</LOGO>
+            <BANNER></BANNER>
+            <LOGO></LOGO>
             <USER_KONTAKT_ID></USER_KONTAKT_ID>
         </INSERAT>
-        <INSERAT>
+        <INSERAT>   
             <ORGANISATIONID>109746</ORGANISATIONID> 
-            <INSERATID>V190224_9</INSERATID>
+            <INSERATID>V180324_5</INSERATID>
             <VORSPANN>This is a test ad. Please don't apply.</VORSPANN>
-            <BERUF>Test 13 interface logo (switch from URL to ID)</BERUF>
+            <BERUF>Test 5 - with DL / target T+ ID 10567</BERUF>
             <TEXT>This is a test ad. Please don't apply.</TEXT>
             <SPRACHE>de</SPRACHE>
             <STRASSE>Albisriederstrasse</STRASSE>
@@ -292,76 +162,11 @@
             <GEHALT_BIS></GEHALT_BIS>
             <GEHALT_RATE></GEHALT_RATE>
             <GEHALT_SICHTBAR></GEHALT_SICHTBAR>
-            <LAYOUT></LAYOUT>
+            <LAYOUT>10567</LAYOUT>
+            <DIREKT_URL>https://mycareer.jobcloud.ch/de/jobs/10112/sales-support-specialist-80-100</DIREKT_URL>
             <VIDEO></VIDEO>
-            <BANNER></BANNER> 
-            <LOGO>316487</LOGO>
-            <USER_KONTAKT_ID></USER_KONTAKT_ID>
-        </INSERAT>
-        <INSERAT>
-            <ORGANISATIONID>110663</ORGANISATIONID> 
-            <INSERATID>V190224_10</INSERATID>
-            <VORSPANN>This is a test ad. Please don't apply.</VORSPANN>
-            <BERUF>Test 14 interface logo ID (switch from child ID to mother ID)</BERUF>
-            <TEXT>This is a test ad. Please don't apply.</TEXT>
-            <SPRACHE>de</SPRACHE>
-            <STRASSE>Albisriederstrasse</STRASSE>
-            <PLZ>8000</PLZ>
-            <ORT>Zürich</ORT>
-            <KONTAKT></KONTAKT>
-            <EMAIL></EMAIL>
-            <URL></URL>
-            <REGION>:2:5:</REGION>
-            <RUBRIKID>:3:</RUBRIKID>
-            <POSITION>:1:</POSITION>
-            <BRANCHE>1</BRANCHE>
-            <ANSTELLUNGSGRAD>20</ANSTELLUNGSGRAD>
-            <ANSTELLUNGSGRAD_BIS>100</ANSTELLUNGSGRAD_BIS>
-            <ANSTELLUNGSART>:1:</ANSTELLUNGSART>
-            <SPRACHKENNTNIS_KANDIDAT>:0:</SPRACHKENNTNIS_KANDIDAT>
-            <SPRACHKENNTNIS_NIVEAU>:0:</SPRACHKENNTNIS_NIVEAU>
-            <ANGEBOT>51</ANGEBOT> 
-            <GEHALT_VON></GEHALT_VON>
-            <GEHALT_BIS></GEHALT_BIS>
-            <GEHALT_RATE></GEHALT_RATE>
-            <GEHALT_SICHTBAR></GEHALT_SICHTBAR>
-            <LAYOUT></LAYOUT>
-            <VIDEO></VIDEO>
-            <BANNER></BANNER> 
-            <LOGO>316450</LOGO>
-            <USER_KONTAKT_ID></USER_KONTAKT_ID>
-        </INSERAT>
-        <INSERAT>
-            <ORGANISATIONID>110663</ORGANISATIONID> 
-            <INSERATID>V190224_11</INSERATID>
-            <VORSPANN>This is a test ad. Please don't apply.</VORSPANN>
-            <BERUF>Test 15 interface logo ID (switch from URL to mother ID)</BERUF>
-            <TEXT>This is a test ad. Please don't apply.</TEXT>
-            <SPRACHE>de</SPRACHE>
-            <STRASSE>Albisriederstrasse</STRASSE>
-            <PLZ>8000</PLZ>
-            <ORT>Zürich</ORT>
-            <KONTAKT></KONTAKT>
-            <EMAIL></EMAIL>
-            <URL></URL>
-            <REGION>:2:5:</REGION>
-            <RUBRIKID>:3:</RUBRIKID>
-            <POSITION>:1:</POSITION>
-            <BRANCHE>1</BRANCHE>
-            <ANSTELLUNGSGRAD>20</ANSTELLUNGSGRAD>
-            <ANSTELLUNGSGRAD_BIS>100</ANSTELLUNGSGRAD_BIS>
-            <ANSTELLUNGSART>:1:</ANSTELLUNGSART>
-            <SPRACHKENNTNIS_KANDIDAT>:0:</SPRACHKENNTNIS_KANDIDAT>
-            <SPRACHKENNTNIS_NIVEAU>:0:</SPRACHKENNTNIS_NIVEAU>
-            <ANGEBOT>51</ANGEBOT> 
-            <GEHALT_VON></GEHALT_VON>
-            <GEHALT_BIS></GEHALT_BIS>
-            <GEHALT_RATE></GEHALT_RATE>
-            <GEHALT_SICHTBAR></GEHALT_SICHTBAR>
-            <LAYOUT></LAYOUT>
-            <VIDEO></VIDEO>
-            <BANNER></BANNER> 
-            <LOGO>316450</LOGO>
+            <BANNER></BANNER>
+            <LOGO></LOGO>
             <USER_KONTAKT_ID></USER_KONTAKT_ID>
         </INSERAT>
     </INSERATE>
