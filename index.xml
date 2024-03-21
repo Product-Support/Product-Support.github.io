@@ -36,9 +36,9 @@
         </INSERAT>
         <INSERAT>
             <ORGANISATIONID>109746</ORGANISATIONID> 
-            <INSERATID>V180324_2</INSERATID>
+            <INSERATID>V210324_2</INSERATID>
             <VORSPANN>This is a test ad. Please don't apply.</VORSPANN>
-            <BERUF>Test 2 - no DL / target ci layout ID 10598</BERUF>
+            <BERUF>Test 2 (V2) - no DL / target ci layout ID 10598</BERUF>
             <TEXT>This is a test ad. Please don't apply.</TEXT>
             <SPRACHE>de</SPRACHE>
             <STRASSE>Albisriederstrasse</STRASSE>
@@ -69,9 +69,9 @@
         </INSERAT>
         <INSERAT>
             <ORGANISATIONID>109746</ORGANISATIONID> 
-            <INSERATID>V180324_3</INSERATID>
+            <INSERATID>V210324_3</INSERATID>
             <VORSPANN>This is a test ad. Please don't apply.</VORSPANN>
-            <BERUF>Test 3 - with DL / target no ID    </BERUF>
+            <BERUF>Test 3 (V2) - with DL / target no ID    </BERUF>
             <TEXT>This is a test ad. Please don't apply.</TEXT>
             <SPRACHE>de</SPRACHE>
             <STRASSE>Albisriederstrasse</STRASSE>
@@ -103,9 +103,9 @@
         </INSERAT>
         <INSERAT>   
             <ORGANISATIONID>109746</ORGANISATIONID> 
-            <INSERATID>V180324_4</INSERATID>
+            <INSERATID>V210324_4</INSERATID>
             <VORSPANN>This is a test ad. Please don't apply.</VORSPANN>
-            <BERUF>Test 4 - with DL / target ci layout ID 10598</BERUF>
+            <BERUF>Test 4 (V2) - with DL / target ci layout ID 10598</BERUF>
             <TEXT>This is a test ad. Please don't apply.</TEXT>
             <SPRACHE>de</SPRACHE>
             <STRASSE>Albisriederstrasse</STRASSE>
@@ -137,9 +137,9 @@
         </INSERAT>
         <INSERAT>   
             <ORGANISATIONID>109746</ORGANISATIONID> 
-            <INSERATID>V180324_5</INSERATID>
+            <INSERATID>V210324_5</INSERATID>
             <VORSPANN>This is a test ad. Please don't apply.</VORSPANN>
-            <BERUF>Test 5 - with DL / target T+ ID 10567</BERUF>
+            <BERUF>Test 5 (V2) - with DL / target T+ ID 10567</BERUF>
             <TEXT>This is a test ad. Please don't apply.</TEXT>
             <SPRACHE>de</SPRACHE>
             <STRASSE>Albisriederstrasse</STRASSE>
