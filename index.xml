@@ -2,15 +2,11 @@
 <JOBS>
     <INSERATE>
         <INSERAT>
-            <ORGANISATIONID>109743</ORGANISATIONID> 
-            <INSERATID>V260324_1</INSERATID>
+            <ORGANISATIONID>109746</ORGANISATIONID> 
+            <INSERATID>V130524_1</INSERATID>
             <VORSPANN>This is a test ad. Please don't apply.</VORSPANN>
-            <BERUF>Test 1</BERUF>
-            <TEXT>no DL
-                no layout ID
-                no TP fields
-                no default-option
-            </TEXT>
+            <BERUF>Test 1 - Gehalt MONAT</BERUF>
+            <TEXT>            </TEXT>
             <SPRACHE>de</SPRACHE>
             <STRASSE>Albisriederstrasse</STRASSE>
             <PLZ>8000</PLZ>
@@ -22,16 +18,15 @@
             <RUBRIKID>:3:</RUBRIKID>
             <POSITION>:1:</POSITION>
             <BRANCHE>1</BRANCHE>
-            <ANSTELLUNGSGRAD>20</ANSTELLUNGSGRAD>
-            <ANSTELLUNGSGRAD_BIS>100</ANSTELLUNGSGRAD_BIS>
+            <ANSTELLUNGSGRAD>20</ANSTELLUNGSGRAD><ANSTELLUNGSGRAD_BIS>100</ANSTELLUNGSGRAD_BIS>
             <ANSTELLUNGSART>:1:</ANSTELLUNGSART>
             <SPRACHKENNTNIS_KANDIDAT>:0:</SPRACHKENNTNIS_KANDIDAT>
             <SPRACHKENNTNIS_NIVEAU>:0:</SPRACHKENNTNIS_NIVEAU>
             <ANGEBOT>51</ANGEBOT> 
-            <GEHALT_VON></GEHALT_VON>
-            <GEHALT_BIS></GEHALT_BIS>
-            <GEHALT_RATE></GEHALT_RATE>
-            <GEHALT_SICHTBAR></GEHALT_SICHTBAR>
+            <GEHALT_VON>4000</GEHALT_VON>
+            <GEHALT_BIS>5000</GEHALT_BIS>
+            <GEHALT_RATE>MONAT</GEHALT_RATE>
+            <GEHALT_SICHTBAR>JA</GEHALT_SICHTBAR>
             <LAYOUT></LAYOUT>
             <VIDEO></VIDEO>
             <BANNER></BANNER>
@@ -39,16 +34,11 @@
             <USER_KONTAKT_ID></USER_KONTAKT_ID>
         </INSERAT>
         <INSERAT>
-            <ORGANISATIONID>110663</ORGANISATIONID> 
-            <INSERATID>V260324_2</INSERATID>
+            <ORGANISATIONID>109746</ORGANISATIONID> 
+            <INSERATID>V130524_2</INSERATID>
             <VORSPANN>This is a test ad. Please don't apply.</VORSPANN>
-            <BERUF>Test 2 </BERUF>
-            <TEXT>
-            no DL
-            no layout ID
-            no TP fields
-            with default-option banner, video, logo
-            </TEXT>
+            <BERUF>Test 2 - Gehalt JAHR</BERUF>
+            <TEXT></TEXT>
             <SPRACHE>de</SPRACHE>
             <STRASSE>Albisriederstrasse</STRASSE>
             <PLZ>8000</PLZ>
@@ -60,16 +50,15 @@
             <RUBRIKID>:3:</RUBRIKID>
             <POSITION>:1:</POSITION>
             <BRANCHE>1</BRANCHE>
-            <ANSTELLUNGSGRAD>20</ANSTELLUNGSGRAD>
-            <ANSTELLUNGSGRAD_BIS>100</ANSTELLUNGSGRAD_BIS>
+            <ANSTELLUNGSGRAD>20</ANSTELLUNGSGRAD><ANSTELLUNGSGRAD_BIS>100</ANSTELLUNGSGRAD_BIS>
             <ANSTELLUNGSART>:1:</ANSTELLUNGSART>
             <SPRACHKENNTNIS_KANDIDAT>:0:</SPRACHKENNTNIS_KANDIDAT>
             <SPRACHKENNTNIS_NIVEAU>:0:</SPRACHKENNTNIS_NIVEAU>
             <ANGEBOT>51</ANGEBOT> 
-            <GEHALT_VON></GEHALT_VON>
-            <GEHALT_BIS></GEHALT_BIS>
-            <GEHALT_RATE></GEHALT_RATE>
-            <GEHALT_SICHTBAR></GEHALT_SICHTBAR>
+            <GEHALT_VON>80000</GEHALT_VON>
+            <GEHALT_BIS>90000</GEHALT_BIS>
+            <GEHALT_RATE>JAHR</GEHALT_RATE>
+            <GEHALT_SICHTBAR>JA</GEHALT_SICHTBAR>
             <LAYOUT></LAYOUT>
             <VIDEO></VIDEO>
             <BANNER></BANNER>
@@ -77,16 +66,11 @@
             <USER_KONTAKT_ID></USER_KONTAKT_ID>
         </INSERAT>
         <INSERAT>
-            <ORGANISATIONID>109743</ORGANISATIONID> 
-            <INSERATID>V260324_3</INSERATID>
+            <ORGANISATIONID>109746</ORGANISATIONID> 
+            <INSERATID>V130524_3</INSERATID>
             <VORSPANN>This is a test ad. Please don't apply.</VORSPANN>
-            <BERUF>Test 3</BERUF>
-            <TEXT>
-            no DL
-            no layout ID
-            with TP fields (URL-option)
-            no default-option
-            </TEXT>
+            <BERUF>Test 3 - Gehalt STUNDE</BERUF>
+            <TEXT>            </TEXT>
             <SPRACHE>de</SPRACHE>
             <STRASSE>Albisriederstrasse</STRASSE>
             <PLZ>8000</PLZ>
@@ -98,115 +82,27 @@
             <RUBRIKID>:3:</RUBRIKID>
             <POSITION>:1:</POSITION>
             <BRANCHE>1</BRANCHE>
-            <ANSTELLUNGSGRAD>20</ANSTELLUNGSGRAD>
-            <ANSTELLUNGSGRAD_BIS>100</ANSTELLUNGSGRAD_BIS>
+            <ANSTELLUNGSGRAD>20</ANSTELLUNGSGRAD><ANSTELLUNGSGRAD_BIS>100</ANSTELLUNGSGRAD_BIS>
             <ANSTELLUNGSART>:1:</ANSTELLUNGSART>
             <SPRACHKENNTNIS_KANDIDAT>:0:</SPRACHKENNTNIS_KANDIDAT>
             <SPRACHKENNTNIS_NIVEAU>:0:</SPRACHKENNTNIS_NIVEAU>
             <ANGEBOT>51</ANGEBOT> 
-            <GEHALT_VON></GEHALT_VON>
-            <GEHALT_BIS></GEHALT_BIS>
-            <GEHALT_RATE></GEHALT_RATE>
-            <GEHALT_SICHTBAR></GEHALT_SICHTBAR>
+            <GEHALT_VON>20</GEHALT_VON>
+            <GEHALT_BIS>30</GEHALT_BIS>
+            <GEHALT_RATE>STUNDE</GEHALT_RATE>
+            <GEHALT_SICHTBAR>JA</GEHALT_SICHTBAR>
             <LAYOUT></LAYOUT>
-            <DIREKT_URL></DIREKT_URL>
-            <VIDEO>https://www.youtube.com/watch?v=cHKR5a83jaA</VIDEO>
-            <BANNER>https://img.jobs.ch/www/img/ci/N/NenoTest/Genau_1200x400.png</BANNER>
-            <LOGO>https://img.jobs.ch/www/img/ci/N/NenoTest/Affe_320x320.png</LOGO>
-            <USER_KONTAKT_ID></USER_KONTAKT_ID>
-        </INSERAT>
-        <INSERAT>   
-            <ORGANISATIONID>109743</ORGANISATIONID> 
-            <INSERATID>V260324_4</INSERATID>
-            <VORSPANN>This is a test ad. Please don't apply.</VORSPANN>
-            <BERUF>Test 4</BERUF>
-            <TEXT>
-                no DL
-                no layout ID
-                with TP fields (ID-option)
-                no default-option
-            </TEXT>
-            <SPRACHE>de</SPRACHE>
-            <STRASSE>Albisriederstrasse</STRASSE>
-            <PLZ>8000</PLZ>
-            <ORT>Zürich</ORT>
-            <KONTAKT></KONTAKT>
-            <EMAIL></EMAIL>
-            <URL></URL>
-            <REGION>:2:5:</REGION>
-            <RUBRIKID>:3:</RUBRIKID>
-            <POSITION>:1:</POSITION>
-            <BRANCHE>1</BRANCHE>
-            <ANSTELLUNGSGRAD>20</ANSTELLUNGSGRAD>
-            <ANSTELLUNGSGRAD_BIS>100</ANSTELLUNGSGRAD_BIS>
-            <ANSTELLUNGSART>:1:</ANSTELLUNGSART>
-            <SPRACHKENNTNIS_KANDIDAT>:0:</SPRACHKENNTNIS_KANDIDAT>
-            <SPRACHKENNTNIS_NIVEAU>:0:</SPRACHKENNTNIS_NIVEAU>
-            <ANGEBOT>51</ANGEBOT> 
-            <GEHALT_VON></GEHALT_VON>
-            <GEHALT_BIS></GEHALT_BIS>
-            <GEHALT_RATE></GEHALT_RATE>
-            <GEHALT_SICHTBAR></GEHALT_SICHTBAR>
-            <LAYOUT></LAYOUT>
-            <DIREKT_URL></DIREKT_URL>
-            <VIDEO>1560</VIDEO>
-            <BANNER>18659</BANNER>
-            <LOGO>316452</LOGO>
-            <USER_KONTAKT_ID>169445</USER_KONTAKT_ID>
-        </INSERAT>
-        <INSERAT>   
-            <ORGANISATIONID>109743</ORGANISATIONID> 
-            <INSERATID>V260324_5</INSERATID>
-            <VORSPANN>This is a test ad. Please don't apply.</VORSPANN>
-            <BERUF>Test 5</BERUF>
-            <TEXT>
-                with DL
-                no layout ID
-                no TP fields
-                no default-option
-            
-            </TEXT>
-            <SPRACHE>de</SPRACHE>
-            <STRASSE>Albisriederstrasse</STRASSE>
-            <PLZ>8000</PLZ>
-            <ORT>Zürich</ORT>
-            <KONTAKT></KONTAKT>
-            <EMAIL></EMAIL>
-            <URL></URL>
-            <REGION>:2:5:</REGION>
-            <RUBRIKID>:3:</RUBRIKID>
-            <POSITION>:1:</POSITION>
-            <BRANCHE>1</BRANCHE>
-            <ANSTELLUNGSGRAD>20</ANSTELLUNGSGRAD>
-            <ANSTELLUNGSGRAD_BIS>100</ANSTELLUNGSGRAD_BIS>
-            <ANSTELLUNGSART>:1:</ANSTELLUNGSART>
-            <SPRACHKENNTNIS_KANDIDAT>:0:</SPRACHKENNTNIS_KANDIDAT>
-            <SPRACHKENNTNIS_NIVEAU>:0:</SPRACHKENNTNIS_NIVEAU>
-            <ANGEBOT>51</ANGEBOT> 
-            <GEHALT_VON></GEHALT_VON>
-            <GEHALT_BIS></GEHALT_BIS>
-            <GEHALT_RATE></GEHALT_RATE>
-            <GEHALT_SICHTBAR></GEHALT_SICHTBAR>
-            <LAYOUT></LAYOUT>
-            <DIREKT_URL>https://mycareer.jobcloud.ch/de/jobs/10140/product-supporter</DIREKT_URL>
             <VIDEO></VIDEO>
             <BANNER></BANNER>
             <LOGO></LOGO>
             <USER_KONTAKT_ID></USER_KONTAKT_ID>
         </INSERAT>
-        <INSERAT>   
-            <ORGANISATIONID>110662</ORGANISATIONID> 
-            <INSERATID>V260324_6</INSERATID>
+        <INSERAT>
+            <ORGANISATIONID>109746</ORGANISATIONID> 
+            <INSERATID>V130524_4</INSERATID>
             <VORSPANN>This is a test ad. Please don't apply.</VORSPANN>
-            <BERUF>Test 6</BERUF>
-            <TEXT>
-                Publish new ad: 
-                no DL
-                with layout ID for IDP
-                no TP fields
-                no default-option
-            
-            </TEXT>
+            <BERUF>Test 4 - Gehalt WOCHE</BERUF>
+            <TEXT>            </TEXT>
             <SPRACHE>de</SPRACHE>
             <STRASSE>Albisriederstrasse</STRASSE>
             <PLZ>8000</PLZ>
@@ -218,36 +114,27 @@
             <RUBRIKID>:3:</RUBRIKID>
             <POSITION>:1:</POSITION>
             <BRANCHE>1</BRANCHE>
-            <ANSTELLUNGSGRAD>20</ANSTELLUNGSGRAD>
-            <ANSTELLUNGSGRAD_BIS>100</ANSTELLUNGSGRAD_BIS>
+            <ANSTELLUNGSGRAD>20</ANSTELLUNGSGRAD><ANSTELLUNGSGRAD_BIS>100</ANSTELLUNGSGRAD_BIS>
             <ANSTELLUNGSART>:1:</ANSTELLUNGSART>
             <SPRACHKENNTNIS_KANDIDAT>:0:</SPRACHKENNTNIS_KANDIDAT>
             <SPRACHKENNTNIS_NIVEAU>:0:</SPRACHKENNTNIS_NIVEAU>
             <ANGEBOT>51</ANGEBOT> 
-            <GEHALT_VON></GEHALT_VON>
-            <GEHALT_BIS></GEHALT_BIS>
-            <GEHALT_RATE></GEHALT_RATE>
-            <GEHALT_SICHTBAR></GEHALT_SICHTBAR>
-            <LAYOUT>10599</LAYOUT>
-            <DIREKT_URL></DIREKT_URL>
+            <GEHALT_VON>200</GEHALT_VON>
+            <GEHALT_BIS>300</GEHALT_BIS>
+            <GEHALT_RATE>WOCHE</GEHALT_RATE>
+            <GEHALT_SICHTBAR>JA</GEHALT_SICHTBAR>
+            <LAYOUT></LAYOUT>
             <VIDEO></VIDEO>
             <BANNER></BANNER>
             <LOGO></LOGO>
             <USER_KONTAKT_ID></USER_KONTAKT_ID>
         </INSERAT>
-        <INSERAT>   
-            <ORGANISATIONID>110662</ORGANISATIONID> 
-            <INSERATID>V270324_7</INSERATID>
+        <INSERAT>
+            <ORGANISATIONID>109746</ORGANISATIONID> 
+            <INSERATID>V130524_5</INSERATID>
             <VORSPANN>This is a test ad. Please don't apply.</VORSPANN>
-            <BERUF>Test 7</BERUF>
-            <TEXT>
-                Publish new ad: 
-                no DL
-                with inactive layout ID for IDP
-                no TP fields
-                no default-option
-            
-            </TEXT>
+            <BERUF>Test 5 - Gehalt mit Wert, aber unsichtbar</BERUF>
+            <TEXT>            </TEXT>
             <SPRACHE>de</SPRACHE>
             <STRASSE>Albisriederstrasse</STRASSE>
             <PLZ>8000</PLZ>
@@ -259,18 +146,16 @@
             <RUBRIKID>:3:</RUBRIKID>
             <POSITION>:1:</POSITION>
             <BRANCHE>1</BRANCHE>
-            <ANSTELLUNGSGRAD>20</ANSTELLUNGSGRAD>
-            <ANSTELLUNGSGRAD_BIS>100</ANSTELLUNGSGRAD_BIS>
+            <ANSTELLUNGSGRAD>20</ANSTELLUNGSGRAD><ANSTELLUNGSGRAD_BIS>100</ANSTELLUNGSGRAD_BIS>
             <ANSTELLUNGSART>:1:</ANSTELLUNGSART>
             <SPRACHKENNTNIS_KANDIDAT>:0:</SPRACHKENNTNIS_KANDIDAT>
             <SPRACHKENNTNIS_NIVEAU>:0:</SPRACHKENNTNIS_NIVEAU>
             <ANGEBOT>51</ANGEBOT> 
-            <GEHALT_VON></GEHALT_VON>
-            <GEHALT_BIS></GEHALT_BIS>
-            <GEHALT_RATE></GEHALT_RATE>
-            <GEHALT_SICHTBAR></GEHALT_SICHTBAR>
-            <LAYOUT>10599</LAYOUT>
-            <DIREKT_URL></DIREKT_URL>
+            <GEHALT_VON>4000</GEHALT_VON>
+            <GEHALT_BIS>5000</GEHALT_BIS>
+            <GEHALT_RATE>JAHR</GEHALT_RATE>
+            <GEHALT_SICHTBAR>NEIN</GEHALT_SICHTBAR>
+            <LAYOUT></LAYOUT>
             <VIDEO></VIDEO>
             <BANNER></BANNER>
             <LOGO></LOGO>
