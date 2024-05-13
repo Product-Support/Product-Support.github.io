@@ -6,7 +6,7 @@
             <INSERATID>V130524_1</INSERATID>
             <VORSPANN>This is a test ad. Please don't apply.</VORSPANN>
             <BERUF>Test 1 - Gehalt MONAT</BERUF>
-            <TEXT>            </TEXT>
+            <TEXT>This is a test ad. Please don't apply.</TEXT>
             <SPRACHE>de</SPRACHE>
             <STRASSE>Albisriederstrasse</STRASSE>
             <PLZ>8000</PLZ>
@@ -38,7 +38,7 @@
             <INSERATID>V130524_2</INSERATID>
             <VORSPANN>This is a test ad. Please don't apply.</VORSPANN>
             <BERUF>Test 2 - Gehalt JAHR</BERUF>
-            <TEXT></TEXT>
+            <TEXT>This is a test ad. Please don't apply.</TEXT>
             <SPRACHE>de</SPRACHE>
             <STRASSE>Albisriederstrasse</STRASSE>
             <PLZ>8000</PLZ>
@@ -70,7 +70,7 @@
             <INSERATID>V130524_3</INSERATID>
             <VORSPANN>This is a test ad. Please don't apply.</VORSPANN>
             <BERUF>Test 3 - Gehalt STUNDE</BERUF>
-            <TEXT>            </TEXT>
+            <TEXT>This is a test ad. Please don't apply.</TEXT>
             <SPRACHE>de</SPRACHE>
             <STRASSE>Albisriederstrasse</STRASSE>
             <PLZ>8000</PLZ>
@@ -102,7 +102,7 @@
             <INSERATID>V130524_4</INSERATID>
             <VORSPANN>This is a test ad. Please don't apply.</VORSPANN>
             <BERUF>Test 4 - Gehalt WOCHE</BERUF>
-            <TEXT>            </TEXT>
+            <TEXT>This is a test ad. Please don't apply.</TEXT>
             <SPRACHE>de</SPRACHE>
             <STRASSE>Albisriederstrasse</STRASSE>
             <PLZ>8000</PLZ>
@@ -134,7 +134,7 @@
             <INSERATID>V130524_5</INSERATID>
             <VORSPANN>This is a test ad. Please don't apply.</VORSPANN>
             <BERUF>Test 5 - Gehalt mit Wert, aber unsichtbar</BERUF>
-            <TEXT>            </TEXT>
+            <TEXT>This is a test ad. Please don't apply.</TEXT>
             <SPRACHE>de</SPRACHE>
             <STRASSE>Albisriederstrasse</STRASSE>
             <PLZ>8000</PLZ>
