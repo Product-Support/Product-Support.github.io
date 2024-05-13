@@ -5,7 +5,7 @@
             <ORGANISATIONID>109746</ORGANISATIONID> 
             <INSERATID>V130524_1</INSERATID>
             <VORSPANN>This is a test ad. Please don't apply.</VORSPANN>
-            <BERUF>Test 1 - Gehalt MONAT</BERUF>
+            <BERUF>Test 1 - Gehalt MONAT / change to different value </BERUF>
             <TEXT>This is a test ad. Please don't apply.</TEXT>
             <SPRACHE>de</SPRACHE>
             <STRASSE>Albisriederstrasse</STRASSE>
@@ -23,8 +23,8 @@
             <SPRACHKENNTNIS_KANDIDAT>:0:</SPRACHKENNTNIS_KANDIDAT>
             <SPRACHKENNTNIS_NIVEAU>:0:</SPRACHKENNTNIS_NIVEAU>
             <ANGEBOT>51</ANGEBOT> 
-            <GEHALT_VON>4000</GEHALT_VON>
-            <GEHALT_BIS>5000</GEHALT_BIS>
+            <GEHALT_VON>6000</GEHALT_VON>
+            <GEHALT_BIS>8000</GEHALT_BIS>
             <GEHALT_RATE>MONAT</GEHALT_RATE>
             <GEHALT_SICHTBAR>JA</GEHALT_SICHTBAR>
             <LAYOUT></LAYOUT>
@@ -37,7 +37,7 @@
             <ORGANISATIONID>109746</ORGANISATIONID> 
             <INSERATID>V130524_2</INSERATID>
             <VORSPANN>This is a test ad. Please don't apply.</VORSPANN>
-            <BERUF>Test 2 - Gehalt JAHR</BERUF>
+            <BERUF>Test 2 - Gehalt JAHR - change from visible to invisible</BERUF>
             <TEXT>This is a test ad. Please don't apply.</TEXT>
             <SPRACHE>de</SPRACHE>
             <STRASSE>Albisriederstrasse</STRASSE>
@@ -58,7 +58,7 @@
             <GEHALT_VON>80000</GEHALT_VON>
             <GEHALT_BIS>90000</GEHALT_BIS>
             <GEHALT_RATE>JAHR</GEHALT_RATE>
-            <GEHALT_SICHTBAR>JA</GEHALT_SICHTBAR>
+            <GEHALT_SICHTBAR>NEIN</GEHALT_SICHTBAR>
             <LAYOUT></LAYOUT>
             <VIDEO></VIDEO>
             <BANNER></BANNER>
@@ -69,7 +69,7 @@
             <ORGANISATIONID>109746</ORGANISATIONID> 
             <INSERATID>V130524_3</INSERATID>
             <VORSPANN>This is a test ad. Please don't apply.</VORSPANN>
-            <BERUF>Test 3 - Gehalt STUNDE</BERUF>
+            <BERUF>Test 3 - Gehalt STUNDE - change rate to MONAT, value stays the same</BERUF>
             <TEXT>This is a test ad. Please don't apply.</TEXT>
             <SPRACHE>de</SPRACHE>
             <STRASSE>Albisriederstrasse</STRASSE>
@@ -89,7 +89,7 @@
             <ANGEBOT>51</ANGEBOT> 
             <GEHALT_VON>20</GEHALT_VON>
             <GEHALT_BIS>30</GEHALT_BIS>
-            <GEHALT_RATE>STUNDE</GEHALT_RATE>
+            <GEHALT_RATE>MONAT</GEHALT_RATE>
             <GEHALT_SICHTBAR>JA</GEHALT_SICHTBAR>
             <LAYOUT></LAYOUT>
             <VIDEO></VIDEO>
@@ -101,7 +101,7 @@
             <ORGANISATIONID>109746</ORGANISATIONID> 
             <INSERATID>V130524_4</INSERATID>
             <VORSPANN>This is a test ad. Please don't apply.</VORSPANN>
-            <BERUF>Test 4 - Gehalt WOCHE</BERUF>
+            <BERUF>Test 4 - Gehalt WOCHE - remove all </BERUF>
             <TEXT>This is a test ad. Please don't apply.</TEXT>
             <SPRACHE>de</SPRACHE>
             <STRASSE>Albisriederstrasse</STRASSE>
@@ -119,10 +119,10 @@
             <SPRACHKENNTNIS_KANDIDAT>:0:</SPRACHKENNTNIS_KANDIDAT>
             <SPRACHKENNTNIS_NIVEAU>:0:</SPRACHKENNTNIS_NIVEAU>
             <ANGEBOT>51</ANGEBOT> 
-            <GEHALT_VON>200</GEHALT_VON>
-            <GEHALT_BIS>300</GEHALT_BIS>
-            <GEHALT_RATE>WOCHE</GEHALT_RATE>
-            <GEHALT_SICHTBAR>JA</GEHALT_SICHTBAR>
+            <GEHALT_VON></GEHALT_VON>
+            <GEHALT_BIS></GEHALT_BIS>
+            <GEHALT_RATE></GEHALT_RATE>
+            <GEHALT_SICHTBAR></GEHALT_SICHTBAR>
             <LAYOUT></LAYOUT>
             <VIDEO></VIDEO>
             <BANNER></BANNER>
@@ -133,7 +133,7 @@
             <ORGANISATIONID>109746</ORGANISATIONID> 
             <INSERATID>V130524_5</INSERATID>
             <VORSPANN>This is a test ad. Please don't apply.</VORSPANN>
-            <BERUF>Test 5 - Gehalt mit Wert, aber unsichtbar</BERUF>
+            <BERUF>Test 5 - Gehalt mit Wert, aber unsichtbar - change to visible</BERUF>
             <TEXT>This is a test ad. Please don't apply.</TEXT>
             <SPRACHE>de</SPRACHE>
             <STRASSE>Albisriederstrasse</STRASSE>
@@ -154,7 +154,7 @@
             <GEHALT_VON>4000</GEHALT_VON>
             <GEHALT_BIS>5000</GEHALT_BIS>
             <GEHALT_RATE>JAHR</GEHALT_RATE>
-            <GEHALT_SICHTBAR>NEIN</GEHALT_SICHTBAR>
+            <GEHALT_SICHTBAR>JA</GEHALT_SICHTBAR>
             <LAYOUT></LAYOUT>
             <VIDEO></VIDEO>
             <BANNER></BANNER>
