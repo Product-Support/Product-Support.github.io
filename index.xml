@@ -3,9 +3,10 @@
     <INSERATE>
         <INSERAT>
             <ORGANISATIONID>109746</ORGANISATIONID> 
-            <INSERATID>V030924_1</INSERATID>
+            <INSERATID>V040924_1</INSERATID>
             <VORSPANN>This is a test ad. Please don't apply.</VORSPANN>
-            <BERUF>Test 1 - Title</BERUF>
+            <BERUF>BERUF</BERUF>
+            <TITEL>TITLE</TITEL>
             <TEXT>This is a test ad. Please don't apply.</TEXT>
             <SPRACHE>de</SPRACHE>
             <STRASSE>Albisriederstrasse</STRASSE>
